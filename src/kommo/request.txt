@@ -1,0 +1,20 @@
+curl --request PATCH \
+     --url https://grupoduoadm.kommo.com/api/v4/leads/21020211 \
+     --header 'accept: application/json' \
+     --header 'authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjkyY2RjMmNmMjhjMjJkYmQxYjUzMTgyYWZkNjM0ZWNlZDBmODY3MjVlZTAyNTZhYTk0MzNlMmYxZGJlZTk3ZTlhZjI3MDAxY2VlYWM0MjI5In0.eyJhdWQiOiIyNDRmNThiYS1kOTZjLTQ3MGEtOWM5Yi1mYzNjMWU2NGQ4NDAiLCJqdGkiOiI5MmNkYzJjZjI4YzIyZGJkMWI1MzE4MmFmZDYzNGVjZWQwZjg2NzI1ZWUwMjU2YWE5NDMzZTJmMWRiZWU5N2U5YWYyNzAwMWNlZWFjNDIyOSIsImlhdCI6MTc0MDYwMzcxNCwibmJmIjoxNzQwNjAzNzE0LCJleHAiOjE3NzIwNjQwMDAsInN1YiI6IjkxMjQzNTkiLCJncmFudF90eXBlIjoiIiwiYWNjb3VudF9pZCI6MzA4NDIwNTEsImJhc2VfZG9tYWluIjoia29tbW8uY29tIiwidmVyc2lvbiI6Miwic2NvcGVzIjpbImNybSIsImZpbGVzIiwiZmlsZXNfZGVsZXRlIiwibm90aWZpY2F0aW9ucyIsInB1c2hfbm90aWZpY2F0aW9ucyJdLCJoYXNoX3V1aWQiOiI2MTEyNjFlMy1mZTQxLTRjNjctOWZmNS01YzVhMWQ5NWE4YzciLCJhcGlfZG9tYWluIjoiYXBpLWcua29tbW8uY29tIn0.OatFbNi4s0DmeIk6FsANkzz0WG1t7fjuxaOsfdVd_qeMtvTOQ1Xx0ZeJx6MtafMr6_AdmCyESVFd2M2F1J9X9GtQlLRWT3vyTJG20teDQmjVIhXmrGi7KsPJk5MnFVAxBJJaxfK56YkTZCBlSt9zyGTnCDqPjx06pDvCb2dJfb0fosVoAO05yCtdatTGqi-Dwv_ocP5W4xlkbCNcWpJkBNmKO5UKk8kOZBm9OL5BeAPgTSLaunf0DFohAEt5H65y10sFjxxrB2CzU2Ad-cSMLzKxKAkT6-Xv7gDQ_RaEh-B9iZ40BYqH24nllgP8Rlesgf8l3U3HIwTg802Nt_Yh7A' \
+     --header 'content-type: application/json' \
+     --data '
+{
+  "custom_fields_values": [
+    {
+      "field_id": 1879559,
+      "values": [
+        {
+          "value": "8 Dias"
+        }
+      ]
+    }
+  ],
+  "status_id": 0
+}
+'

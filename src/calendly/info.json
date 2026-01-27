@@ -1,0 +1,6 @@
+{
+    "client_id": "Q09UBAKqtkbXAe0-BdU8wIVt-WYPjpQ6gfRvYaBS6O8",
+    "client_secret": "bUtYEUxe3-lzsKZVoVUkbGAfAJO1LQyitC5E2K8lVDM",
+    "webhook_sigin_key": "Q4zkW2s2g5VvUXbWyjeaNPxxpxQ2LzaXn-WaEgVTFO4",
+    "url": "https://calendly.com/oauth/authorize?client_id=Q09UBAKqtkbXAe0-BdU8wIVt-WYPjpQ6gfRvYaBS6O8&response_type=code&redirect_uri=https://gerenciadorduo.zeyo.org/auth&code_challenge_method=S256&code_challenge=74qusOldwmpCb69jjjC2B4ztj4eoq7VHp2orZr-aZ3o"
+}

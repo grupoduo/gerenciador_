@@ -1,0 +1,20 @@
+{
+    "_links": {
+      "self": {
+        "href": "https://grupoduoadm.kommo.com/api/v4/leads"
+      }
+    },
+    "_embedded": {
+      "leads": [
+        {
+          "id": 21024769,
+          "request_id": "0",
+          "_links": {
+            "self": {
+              "href": "https://grupoduoadm.kommo.com/api/v4/leads/21024769"
+            }
+          }
+        }
+      ]
+    }
+  }

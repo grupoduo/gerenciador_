@@ -1,0 +1,2358 @@
+[
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Mauricio Dskcj"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 54521526545"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "ângela Ferreira"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 11994628526"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "angelacferreira27@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@salaoLadyandLord"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "São Paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Barueri"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Apenas dono(a)"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "10 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "Acima de 10"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "41 mil a 60 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Julhana Lazzari"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 49991989418"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "julagamilia2025@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@lafamilia_salao"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Santa Catarina"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Chapeco"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "23 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "4 a 9"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "FINANCEIRO - leitura de resultado / precificação / lucro / despesas"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Cleonice Rodrigues Mendes"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 11985430595"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "cleopodo@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "podo.cleomendes"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "São Paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Diadema"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "12 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "FINANCEIRO - leitura de resultado / precificação / lucro / despesas"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Marília Oliveira de Araujo"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 85986821203"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "moreiramarilia951@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@studiodebelezamariliaaraujo"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Ceara"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Fortaleza"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "10anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Natasha Burko"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 42991115426"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "natasha_meiborg@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@heikelinastudio"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Paraná"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Rio Azul"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Não tenho lucro"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "9 meses"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "4 a 9"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Rhuslania Susanine dos Passos Gonçalves"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 47992046433"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "xuxahair_rh2007@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@xuxasusanine @salaoxuxahair"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "São Francisco do Sul-SC"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "São Francisco do Sul"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "18anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Francisca Aislania Cabral da Silva"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 86988429614"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "cabralaislania@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "Aislania cabral"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Teresina Piauí"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Teresina"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "Comecei agora"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "FINANCEIRO - leitura de resultado / precificação / lucro / despesas"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "0 a 9 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Ariane Brunel Silva"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 48999255242"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "arianebrunel@icloud.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@wiliandellavevhia o salão ainda não tem, abriremos em um mês"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Santa Catarina (SC)"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Criciúma"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "Ainda não abrimos, meu esposo e profissional principal tem 20 anos como cabeleireiro e tem uma boa cartela de cliente"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "4 a 9"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "21 mil a 40 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Tiago Silva Oliveira"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 74999136182"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "aialacompany01@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@aiala_salao"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Bahia (BA)"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Jacobina-BA"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "1 ano e 8 meses"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "MARKETING - atração de clientes / presença nas redes sociais"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Maurício Marques"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 5499959556"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "Mauricioduo@icloud.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@omauricio.marques"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "RS"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Passo Fundo"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "10 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "Acima de 10"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "mais de 100 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Eremita Ferreira da Fonseca"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 31998968340"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "tucafonseca22@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@tuca Studio de beleza"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Minas Gerais"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Belo Horizonte"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Não tenho lucro"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "40 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "Ainda não possuo equipe"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "MARKETING - atração de clientes / presença nas redes sociais"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Gabriela Cuzzuol Rocha Matavelli"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 27999042492"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "gabrielacuzzuol@yahoo.com.br"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@donasanta.esmalteria"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Vila Velha (ES)"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Vila Velha"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Apenas dono(a)"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "2,5 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "Acima de 10"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "FINANCEIRO - leitura de resultado / precificação / lucro / despesas"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "41 mil a 60 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Barbara Marques"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 67999876905"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "barbara_marques7@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@equipecrismarques"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Ms"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Nova Andradina"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "Eu tenho nove anos mas o salão tem 25 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "4 a 9"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "61 mil a 100 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Leila Ribeiro Dantas"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 11984083436"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "lribeirodantas2008@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "Leila Ribeiro hair santo andre"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Santo André"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Sao paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Não tenho lucro"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "13 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "Ainda não possuo equipe"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "Todas as opções acima"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "0 a 9 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Adriana Brigidio"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 11984554250"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "adriana.brigidio@misshairstudio.com.br"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@misshair.megahair"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "SP"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "São Paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Apenas dono(a)"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro e sei exatamente o número"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "02 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "VENDAS - produtos / serviços de ações comerciais"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Jucimar Linhares Moreira Almeida"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 55991209181"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "LANAJUSALAO@GMAIL.COM"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@SALAOLANAJU"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "RS"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "IJUI"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "17 ANOS"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "4 a 9"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": "10 mil a 20 mil"
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Ednara Maria Santos Regis"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 88999039770"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                }
+            ]
+        }
+    },
+    {
+        "form": {
+            "form_name": "Avec Franquia Barueri",
+            "form_id": "eOYHo1KF"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-06-30 13:58:26",
+            "score": null,
+            "respondent_id": "bad6746c-ee56-4efe-9099-58e177b051d4",
+            "answers": {
+                "Qual é o seu nome completo?": "Ednara Maria Santos Regis",
+                "Qual é o seu número de Whatsapp?": "55 88999039770",
+                "Qual é o seu melhor e-mail?": "regisnara12@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@Renovasalonbeauty @ednararegis",
+                "Em qual estado seu salão está situado?": "Ceará",
+                "Em qual cidade seu salão está situado?": "Limoeiro Do Norte",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "20 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "MARKETING - atração de clientes / presença nas redes sociais",
+                "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "text"
+                    },
+                    "answer": "Ednara Maria Santos Regis"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "text"
+                    },
+                    "answer": "55 88999039770"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "text"
+                    },
+                    "answer": "regisnara12@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@Renovasalonbeauty @ednararegis"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Ceará"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Limoeiro Do Norte"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "text"
+                    },
+                    "answer": "Dono(a) e profissional do seu negócio"
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "text"
+                    },
+                    "answer": "Tenho lucro mas não sei o valor exato"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "20 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "text"
+                    },
+                    "answer": "1 a 3"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "text"
+                    },
+                    "answer": "MARKETING - atração de clientes / presença nas redes sociais"
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "text"
+                    },
+                    "answer": ""
+                }
+            ]
+        }
+    }
+]

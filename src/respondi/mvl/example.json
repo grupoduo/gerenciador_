@@ -1,0 +1,148 @@
+{
+    "form": {
+        "form_name": "Bônus especial - Pós evento Imersão MVL",
+        "form_id": "GJtYLOB2"
+    },
+    "respondent": {
+        "status": "completed",
+        "date": "2025-09-26 20:39:16",
+        "score": null,
+        "respondent_id": "8267bbf8-a3d5-4f1d-9bf2-3c6fe6c5494f",
+        "answers": {
+            "Qual é o seu nome completo?": "Evandro Desconsidere",
+            "Qual é o seu número de Whatsapp?": "55 54992627352",
+            "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@evandrohairstyle",
+            "Em qual estado seu salão está situado?": "Rio Grande do Sul",
+            "Em qual cidade seu salão está situado?": "Passo Fundo",
+            "Quem é você dentro do negócio?": "Apenas dono(a)",
+            "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+            "Qual o tempo de atuação no seu negócio?": "10 anos",
+            "Qual o número de colaboradores no seu time?": "1 a 3",
+            "Em qual àrea você sente mais dificuldade hoje?": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores",
+            "Quanto você fatura no seu negócio mensalmente?": "13 mil a 24 mil",
+            "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?": "Decido sozinho(a)"
+        },
+        "raw_answers": [
+            {
+                "question": {
+                    "question_title": "Qual é o seu nome completo?",
+                    "question_id": "xopyalskloic",
+                    "question_type": "name"
+                },
+                "answer": "Evandro Desconsidere"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu número de Whatsapp?",
+                    "question_id": "x9qne4si4vzp",
+                    "question_type": "phone"
+                },
+                "answer": {
+                    "country": "55",
+                    "phone": "54992627352"
+                }
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                    "question_id": "xg6ayiq29rwf",
+                    "question_type": "text"
+                },
+                "answer": "@evandrohairstyle"
+            },
+            {
+                "question": {
+                    "question_title": "Em qual estado seu salão está situado?",
+                    "question_id": "xaee1fea5oif",
+                    "question_type": "select"
+                },
+                "answer": "Rio Grande do Sul"
+            },
+            {
+                "question": {
+                    "question_title": "Em qual cidade seu salão está situado?",
+                    "question_id": "xv4ry2krdaig",
+                    "question_type": "text"
+                },
+                "answer": "Passo Fundo"
+            },
+            {
+                "question": {
+                    "question_title": "Quem é você dentro do negócio?",
+                    "question_id": "xro1j3vask7",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Apenas dono(a)"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Você tem clareza do lucro do seu negócio?",
+                    "question_id": "xwtd8oxjlc3",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Tenho lucro mas não sei o valor exato"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Qual o tempo de atuação no seu negócio?",
+                    "question_id": "xwd59myqh6z",
+                    "question_type": "text"
+                },
+                "answer": "10 anos"
+            },
+            {
+                "question": {
+                    "question_title": "Qual o número de colaboradores no seu time?",
+                    "question_id": "x3jyow8tz67v",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "1 a 3"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                    "question_id": "x7vn8ltz0t3g",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                    "question_id": "x7mi9kdexn02",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "13 mil a 24 mil"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?",
+                    "question_id": "xplxkckua8n",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Decido sozinho(a)"
+                ]
+            }
+        ],
+        "respondent_utms": {
+            "utm_source": "",
+            "utm_medium": "",
+            "utm_campaign": "",
+            "utm_term": "",
+            "utm_content": "",
+            "gclid": "",
+            "fbclid": ""
+        }
+    }
+}

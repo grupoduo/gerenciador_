@@ -1,0 +1,277 @@
+{
+  "_page": 1,
+  "_links": {
+    "self": {
+      "href": "https://grupoduoadm.kommo.com/api/v4/leads/tags/?page=1&limit=250"
+    }
+  },
+  "_embedded": {
+    "tags": [
+      {
+        "id": 117763,
+        "name": "06- OUTBOUND",
+        "color": null
+      },
+      {
+        "id": 117769,
+        "name": "06- OutBound",
+        "color": null
+      },
+      {
+        "id": 115063,
+        "name": "2a cadeira",
+        "color": null
+      },
+      {
+        "id": 112915,
+        "name": "agendou raio-x",
+        "color": null
+      },
+      {
+        "id": 115147,
+        "name": "aluno",
+        "color": null
+      },
+      {
+        "id": 114731,
+        "name": "aluno método salao lucrativo",
+        "color": null
+      },
+      {
+        "id": 110798,
+        "name": "Aluno MSL anual",
+        "color": null
+      },
+      {
+        "id": 112907,
+        "name": "aluno MSL semestral",
+        "color": null
+      },
+      {
+        "id": 114939,
+        "name": "CALL OK",
+        "color": "FFCE5A"
+      },
+      {
+        "id": 111073,
+        "name": "CAMILA",
+        "color": null
+      },
+      {
+        "id": 117597,
+        "name": "Comprou Plano Perfeito",
+        "color": null
+      },
+      {
+        "id": 114929,
+        "name": "CONFERIDO",
+        "color": null
+      },
+      {
+        "id": 114949,
+        "name": "conferir faturamento",
+        "color": null
+      },
+      {
+        "id": 117639,
+        "name": "convert",
+        "color": null
+      },
+      {
+        "id": 114977,
+        "name": "DIA 10",
+        "color": null
+      },
+      {
+        "id": 114975,
+        "name": "DIA 11",
+        "color": null
+      },
+      {
+        "id": 115815,
+        "name": "disparo",
+        "color": null
+      },
+      {
+        "id": 114701,
+        "name": "er",
+        "color": null
+      },
+      {
+        "id": 114159,
+        "name": "ERISSON",
+        "color": null
+      },
+      {
+        "id": 116901,
+        "name": "fb614018707771509",
+        "color": null
+      },
+      {
+        "id": 112949,
+        "name": "Fez primeiro login",
+        "color": null
+      },
+      {
+        "id": 114157,
+        "name": "GUILHERME",
+        "color": null
+      },
+      {
+        "id": 117095,
+        "name": "IMPORTAÇÃO190225",
+        "color": null
+      },
+      {
+        "id": 117099,
+        "name": "importar_19022025_1406",
+        "color": null
+      },
+      {
+        "id": 118727,
+        "name": "importar_23052025_1127",
+        "color": null
+      },
+      {
+        "id": 112077,
+        "name": "inativos",
+        "color": null
+      },
+      {
+        "id": 116801,
+        "name": "LEAD - SOCIAL ",
+        "color": null
+      },
+      {
+        "id": 116803,
+        "name": "LEAD - SOCIAL SELLING",
+        "color": null
+      },
+      {
+        "id": 114687,
+        "name": "LEAD DESC ERISSON",
+        "color": null
+      },
+      {
+        "id": 114534,
+        "name": "LEAD DESC GUILHERME",
+        "color": null
+      },
+      {
+        "id": 114825,
+        "name": "LEAD DESC SABRINA",
+        "color": null
+      },
+      {
+        "id": 114539,
+        "name": "LEAD DESC TIAGO",
+        "color": null
+      },
+      {
+        "id": 115829,
+        "name": "LEAD DESQUALIFICADO",
+        "color": null
+      },
+      {
+        "id": 116733,
+        "name": "LEAD FRIO - META",
+        "color": null
+      },
+      {
+        "id": 116735,
+        "name": "LEAD META",
+        "color": null
+      },
+      {
+        "id": 116731,
+        "name": "LEAD QUENTE - META",
+        "color": null
+      },
+      {
+        "id": 112301,
+        "name": "mechacurta",
+        "color": null
+      },
+      {
+        "id": 115611,
+        "name": "MQL",
+        "color": null
+      },
+      {
+        "id": 112913,
+        "name": "não agendou raio-x",
+        "color": null
+      },
+      {
+        "id": 112947,
+        "name": "Não fez primeiro login",
+        "color": null
+      },
+      {
+        "id": 116143,
+        "name": "no",
+        "color": null
+      },
+      {
+        "id": 116141,
+        "name": "no show",
+        "color": "9D2B32"
+      },
+      {
+        "id": 117821,
+        "name": "Order Bump",
+        "color": null
+      },
+      {
+        "id": 112917,
+        "name": "Raio - x realizado",
+        "color": null
+      },
+      {
+        "id": 112951,
+        "name": "reagendar",
+        "color": null
+      },
+      {
+        "id": 114915,
+        "name": "RÉGIS",
+        "color": null
+      },
+      {
+        "id": 117021,
+        "name": "REPESCAGEM",
+        "color": null
+      },
+      {
+        "id": 111079,
+        "name": "Roberto",
+        "color": null
+      },
+      {
+        "id": 114917,
+        "name": "SABRINA",
+        "color": null
+      },
+      {
+        "id": 115613,
+        "name": "SQL",
+        "color": null
+      },
+      {
+        "id": 111077,
+        "name": "THIAGO",
+        "color": null
+      },
+      {
+        "id": 114985,
+        "name": "TIAGO",
+        "color": null
+      },
+      {
+        "id": 117759,
+        "name": "Turismo",
+        "color": null
+      }
+    ]
+  }
+}

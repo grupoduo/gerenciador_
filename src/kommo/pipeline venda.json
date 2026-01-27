@@ -1,0 +1,288 @@
+{
+  "id": 9907288,
+  "name": "01 - Funil de Vendas [K12]",
+  "sort": 9,
+  "is_main": false,
+  "is_unsorted_on": false,
+  "is_archive": false,
+  "account_id": 30842051,
+  "_links": {
+    "self": {
+      "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288"
+    }
+  },
+  "_embedded": {
+    "statuses": [
+      {
+        "id": 76076800,
+        "name": "Etapa de leads de entrada",
+        "sort": 10,
+        "is_editable": false,
+        "pipeline_id": 9907288,
+        "color": "#c1c1c1",
+        "type": 1,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76076800"
+          }
+        }
+      },
+      {
+        "id": 76679456,
+        "name": "Leads",
+        "sort": 20,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76679456"
+          }
+        }
+      },
+      {
+        "id": 77198212,
+        "name": "Filtragem",
+        "sort": 30,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/77198212"
+          }
+        }
+      },
+      {
+        "id": 80718524,
+        "name": "Social selling",
+        "sort": 40,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/80718524"
+          }
+        }
+      },
+      {
+        "id": 77539976,
+        "name": "Formulário incompleto",
+        "sort": 50,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/77539976"
+          }
+        }
+      },
+      {
+        "id": 87503096,
+        "name": "Contatados Incompleto",
+        "sort": 60,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#87f2c0",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/87503096"
+          }
+        }
+      },
+      {
+        "id": 77166852,
+        "name": "Lead Desqualificado",
+        "sort": 70,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/77166852"
+          }
+        }
+      },
+      {
+        "id": 88272836,
+        "name": "Fórmula",
+        "sort": 80,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#ff8f92",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/88272836"
+          }
+        }
+      },
+      {
+        "id": 76679460,
+        "name": "MQL",
+        "sort": 90,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#ffce5a",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76679460"
+          }
+        }
+      },
+      {
+        "id": 76679464,
+        "name": "SQL",
+        "sort": 100,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#87f2c0",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76679464"
+          }
+        }
+      },
+      {
+        "id": 76076804,
+        "name": "Atendimento BOT",
+        "sort": 110,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#e6e8ea",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76076804"
+          }
+        }
+      },
+      {
+        "id": 76076808,
+        "name": "ATENDIMENTO SDR",
+        "sort": 120,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#ffff99",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76076808"
+          }
+        }
+      },
+      {
+        "id": 88208932,
+        "name": "Atendimento SS",
+        "sort": 130,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#fffd7f",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/88208932"
+          }
+        }
+      },
+      {
+        "id": 81189808,
+        "name": "Contatados",
+        "sort": 140,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#87f2c0",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/81189808"
+          }
+        }
+      },
+      {
+        "id": 76076812,
+        "name": "Reunião Agendada",
+        "sort": 150,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#ffcc66",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76076812"
+          }
+        }
+      },
+      {
+        "id": 76076908,
+        "name": "Em Negociação",
+        "sort": 160,
+        "is_editable": true,
+        "pipeline_id": 9907288,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/76076908"
+          }
+        }
+      },
+      {
+        "id": 142,
+        "name": "Closed - won",
+        "sort": 10000,
+        "is_editable": false,
+        "pipeline_id": 9907288,
+        "color": "#CCFF66",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/142"
+          }
+        }
+      },
+      {
+        "id": 143,
+        "name": "Closed - lost",
+        "sort": 11000,
+        "is_editable": false,
+        "pipeline_id": 9907288,
+        "color": "#D5D8DB",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/9907288/statuses/143"
+          }
+        }
+      }
+    ]
+  }
+}

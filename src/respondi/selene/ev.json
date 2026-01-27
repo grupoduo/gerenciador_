@@ -1,0 +1,97 @@
+{
+    "form": {
+        "form_name": "Selene - Aplicação Consultoria Gratuita",
+        "form_id": "QOFvxyLH"
+    },
+    "respondent": {
+        "status": "completed",
+        "date": "2025-07-15 21:40:32",
+        "score": 20,
+        "respondent_id": "2056c13f-f460-410b-99fe-8730268675b3",
+        "answers": {
+            "Qual é o seu nome completo?": "Evandro Desconsidere",
+            "Qual é o seu número de Whatsapp?": "55 54992627352",
+            "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?": "Decido sozinho(a)",
+            "Por que você acredita que participar da consultoria gratuita é a oportunidade ideal para você e para o crescimento do seu negócio?": ".",
+            "Quanto você fatura no seu negócio mensalmente?": "10 mil a 20 mil",
+            "🚀 - Parabéns! Seu salão foi selecionado!": "https://calendly.com/scheduled_events/14b01155-3d10-4a43-909d-dbcbbd195a39/invitees/8000bd32-fff6-4e80-8817-05ab0a8741e0"
+        },
+        "raw_answers": [
+            {
+                "question": {
+                    "question_title": "Qual é o seu nome completo?",
+                    "question_id": "xopyalskloic",
+                    "question_type": "name"
+                },
+                "answer": "Evandro Desconsidere"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu número de Whatsapp?",
+                    "question_id": "x9qne4si4vzp",
+                    "question_type": "phone"
+                },
+                "answer": {
+                    "country": "55",
+                    "phone": "54992627352"
+                }
+            },
+            {
+                "question": {
+                    "question_title": "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?",
+                    "question_id": "x4zs1uodqhmm",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Decido sozinho(a)"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Por que você acredita que participar da consultoria gratuita é a oportunidade ideal para você e para o crescimento do seu negócio?",
+                    "question_id": "xnv2toco841k",
+                    "question_type": "textarea"
+                },
+                "answer": "."
+            },
+            {
+                "question": {
+                    "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                    "question_id": "xnzy9grkm1d",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "10 mil a 20 mil"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "🚀 - Parabéns! Seu salão foi selecionado!",
+                    "question_id": "xqftydcalgm",
+                    "question_type": "embed.calendly"
+                },
+                "answer": {
+                    "event": "14b01155-3d10-4a43-909d-dbcbbd195a39",
+                    "invite": "8000bd32-fff6-4e80-8817-05ab0a8741e0",
+                    "original": {
+                        "event": {
+                            "uri": "https://api.calendly.com/scheduled_events/14b01155-3d10-4a43-909d-dbcbbd195a39"
+                        },
+                        "invitee": {
+                            "uri": "https://api.calendly.com/scheduled_events/14b01155-3d10-4a43-909d-dbcbbd195a39/invitees/8000bd32-fff6-4e80-8817-05ab0a8741e0"
+                        }
+                    }
+                }
+            }
+        ],
+        "respondent_utms": {
+            "utm_source": "",
+            "utm_medium": "",
+            "utm_campaign": "",
+            "utm_term": "",
+            "utm_content": "",
+            "gclid": "",
+            "fbclid": ""
+        }
+    }
+}

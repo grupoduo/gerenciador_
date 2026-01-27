@@ -1,0 +1,40 @@
+{
+  "id": "20746931",
+  "name": "Lucas Comparotto",
+  "status_id": "71966208",
+  "old_status_id": "71964864",
+  "price": "12990",
+  "responsible_user_id": "9124359",
+  "last_modified": "1744309155",
+  "modified_user_id": "9124359",
+  "created_user_id": "0",
+  "date_create": "1736343757",
+  "pipeline_id": "9275232",
+  "tags": [
+    { "id": "112917", "name": "Raio - x realizado" },
+    { "id": "115613", "name": "SQL" }
+  ],
+  "account_id": "30842051",
+  "custom_fields": [
+    {
+      "id": "1876828",
+      "name": "utm_source",
+      "values": [
+        {
+            "value": ""
+        }
+    ],
+      "code": "UTM_SOURCE"
+    },
+    { "id": "1878999", "name": "Data da Reunião", "values": [] },
+    { "id": "1878425", "name": "Data de entrada", "values": [] },
+    { "id": "1878427", "name": "Data de encerramento", "values": [] },
+    { "id": "1879015", "name": "Produto Adquirido", "values": [] },
+    { "id": "1879019", "name": "Posição de cadeira", "values": [] },
+    { "id": "1879021", "name": "Demais cadeiras", "values": [] },
+    { "id": "1878497", "name": "Consultor", "values": [] },
+    { "id": "1879559", "name": "Etapa Atual", "values": [] }
+  ],
+  "created_at": "1736343757",
+  "updated_at": "1744309155"
+}

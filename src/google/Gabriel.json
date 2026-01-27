@@ -1,0 +1,78 @@
+{
+    "kind": "calendar#event",
+    "etag": "\"3502983614382334\"",
+    "id": "t8m483ueg357k9cdl4c9fnpgvc",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=dDhtNDgzdWVnMzU3azljZGw0YzlmbnBndmMgZHVvYWNhZGVteS5jb25zdWx0b3IwQG0",
+    "created": "2025-07-02T21:30:06.000Z",
+    "updated": "2025-07-02T21:30:07.191Z",
+    "summary": "Consultoria Gratuita (Evandro teste)",
+    "description": "<b>Reservado por</b>\nEvandro teste\nevandrouzeda@gmail.com\n<br><b>Id do Lead</b>\n21890215",
+    "creator": {
+        "email": "duoacademy.consultor0@gmail.com",
+        "self": true
+    },
+    "organizer": {
+        "email": "duoacademy.consultor0@gmail.com",
+        "self": true
+    },
+    "start": {
+        "dateTime": "2025-07-03T16:30:00-03:00",
+        "timeZone": "America/Sao_Paulo"
+    },
+    "end": {
+        "dateTime": "2025-07-03T17:30:00-03:00",
+        "timeZone": "America/Sao_Paulo"
+    },
+    "iCalUID": "t8m483ueg357k9cdl4c9fnpgvc@google.com",
+    "sequence": 0,
+    "attendees": [
+        {
+            "email": "duoacademy.consultor0@gmail.com",
+            "organizer": true,
+            "self": true,
+            "responseStatus": "accepted"
+        },
+        {
+            "email": "evandrouzeda@gmail.com",
+            "responseStatus": "accepted"
+        }
+    ],
+    "extendedProperties": {
+        "shared": {
+            "goo.createdByAvailId": "5ugtrjcojl3aop9jdaesvlcj2e",
+            "goo.createdBySet": "default_cita"
+        }
+    },
+    "hangoutLink": "https://meet.google.com/rea-aojk-jnb",
+    "conferenceData": {
+        "createRequest": {
+            "requestId": "tmia8rupol4n82aqkbqrl5eahc",
+            "conferenceSolutionKey": {
+                "type": "hangoutsMeet"
+            },
+            "status": {
+                "statusCode": "success"
+            }
+        },
+        "entryPoints": [
+            {
+                "entryPointType": "video",
+                "uri": "https://meet.google.com/rea-aojk-jnb",
+                "label": "meet.google.com/rea-aojk-jnb"
+            }
+        ],
+        "conferenceSolution": {
+            "key": {
+                "type": "hangoutsMeet"
+            },
+            "name": "Google Meet",
+            "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
+        },
+        "conferenceId": "rea-aojk-jnb"
+    },
+    "reminders": {
+        "useDefault": true
+    },
+    "eventType": "default"
+}

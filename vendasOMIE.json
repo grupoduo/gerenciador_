@@ -1,0 +1,691 @@
+[
+    {
+        "cabecalho": {
+            "bloqueado": "",
+            "codigo_cenario_impostos": "3540873990",
+            "codigo_cliente": 3943400742,
+            "codigo_empresa": 3502894615,
+            "codigo_parcela": "000",
+            "codigo_pedido": 3943402076,
+            "codigo_pedido_integracao": "",
+            "data_previsao": "03/12/2025",
+            "enc_data": "",
+            "enc_hora": "",
+            "enc_motivo": "",
+            "enc_user": "",
+            "encerrado": "",
+            "etapa": "60",
+            "importado_api": "",
+            "numero_pedido": "716",
+            "origem_pedido": "ERP",
+            "qtde_parcelas": 1,
+            "quantidade_itens": 1
+        },
+        "departamentos": [],
+        "det": [
+            {
+                "combustivel": {},
+                "ide": {
+                    "codigo_item": 3943402080,
+                    "codigo_item_integracao": "",
+                    "simples_nacional": "N"
+                },
+                "imposto": {
+                    "cbs": {
+                        "aliquota_cbs": 0.9,
+                        "perc_dif_cbs": 0,
+                        "perc_red_cbs": 0,
+                        "valor_cbs": 17.73,
+                        "valor_dif_cbs": 0
+                    },
+                    "cofins_padrao": {
+                        "aliq_cofins": 0,
+                        "base_cofins": 0,
+                        "cod_sit_trib_cofins": "08",
+                        "qtde_unid_trib_cofins": 0,
+                        "tipo_calculo_cofins": "",
+                        "valor_cofins": 0,
+                        "valor_unid_trib_cofins": 0
+                    },
+                    "cofins_st": {
+                        "aliq_cofins_st": 0,
+                        "base_cofins_st": 0,
+                        "cod_sit_trib_cofins_st": "08",
+                        "margem_cofins_st": 0,
+                        "qtde_unid_trib_cofins_st": 0,
+                        "tipo_calculo_cofins_st": "",
+                        "valor_cofins_st": 0,
+                        "valor_unid_trib_cofins_st": 0
+                    },
+                    "csll": {
+                        "aliq_csll": 0,
+                        "valor_csll": 0
+                    },
+                    "ibs": {
+                        "aliquota_ibs_mu": 0,
+                        "aliquota_ibs_uf": 0.1,
+                        "perc_dif_ibs_mu": 0,
+                        "perc_dif_ibs_uf": 0,
+                        "perc_red_ibs_mu": 0,
+                        "perc_red_ibs_uf": 0,
+                        "valor_dif_ibs_mu": 0,
+                        "valor_dif_ibs_uf": 0,
+                        "valor_ibs": 1.97,
+                        "valor_ibs_mu": 0,
+                        "valor_ibs_uf": 1.97
+                    },
+                    "ibs_cbs": {
+                        "base_ibs_cbs": 1970,
+                        "class_trib": "000001",
+                        "cst_ibs_cbs": "000"
+                    },
+                    "icms": {
+                        "aliq_icms": 0,
+                        "base_icms": 0,
+                        "cod_sit_trib_icms": "40",
+                        "modalidade_icms": "3",
+                        "origem_icms": "0",
+                        "perc_red_base_icms": 0,
+                        "valor_icms": 0
+                    },
+                    "icms_efet": {},
+                    "icms_ie": {
+                        "aliq_icms_FCP": 0,
+                        "aliq_interestadual": 0,
+                        "aliq_interna_uf_destino": 0,
+                        "aliq_partilha_icms": 100,
+                        "base_icms_uf_destino": 1970,
+                        "valor_fcp_icms_inter": 0,
+                        "valor_icms_uf_dest": 0,
+                        "valor_icms_uf_remet": 0
+                    },
+                    "icms_sn": {},
+                    "icms_st": {
+                        "aliq_icms_opprop": 0,
+                        "aliq_icms_st": 0,
+                        "base_icms_st": 0,
+                        "cest": "",
+                        "cod_sit_trib_icms_st": "40",
+                        "margem_icms_st": 0,
+                        "modalidade_icms_st": "",
+                        "perc_red_base_icms_op": 0,
+                        "perc_red_base_icms_st": 0,
+                        "valor_icms_st": 0
+                    },
+                    "inss": {
+                        "aliq_inss": 0,
+                        "valor_inss": 0
+                    },
+                    "ipi": {
+                        "aliq_ipi": 0,
+                        "base_ipi": 0,
+                        "cod_sit_trib_ipi": "53",
+                        "enquadramento_ipi": "999",
+                        "qtde_unid_trib_ipi": 0,
+                        "tipo_calculo_ipi": "",
+                        "valor_ipi": 0,
+                        "valor_unid_trib_ipi": 0
+                    },
+                    "irrf": {
+                        "aliq_irrf": 0,
+                        "valor_irrf": 0
+                    },
+                    "iss": {
+                        "aliq_iss": 0,
+                        "base_iss": 0,
+                        "retem_iss": "",
+                        "valor_iss": 0
+                    },
+                    "pis_padrao": {
+                        "aliq_pis": 0,
+                        "base_pis": 0,
+                        "cod_sit_trib_pis": "08",
+                        "qtde_unid_trib_pis": 0,
+                        "tipo_calculo_pis": "",
+                        "valor_pis": 0,
+                        "valor_unid_trib_pis": 0
+                    },
+                    "pis_st": {
+                        "aliq_pis_st": 0,
+                        "base_pis_st": 0,
+                        "cod_sit_trib_pis_st": "08",
+                        "margem_pis_st": 0,
+                        "qtde_unid_trib_pis_st": 0,
+                        "tipo_calculo_pis_st": "",
+                        "valor_pis_st": 0,
+                        "valor_unid_trib_pis_st": 0
+                    },
+                    "trib_reg": {
+                        "aliquota_reg_cbs": 0,
+                        "aliquota_reg_ibs_mu": 0,
+                        "aliquota_reg_ibs_uf": 0,
+                        "class_trib_reg": "",
+                        "cst_reg_ibs_cst": "",
+                        "valor_reg_cbs": 0,
+                        "valor_reg_ibs_mu": 0,
+                        "valor_reg_ibs_uf": 0
+                    }
+                },
+                "inf_adic": {
+                    "codigo_categoria_item": "1.01.03",
+                    "codigo_cenario_impostos_item": "3540873990",
+                    "codigo_local_estoque": 3502894625,
+                    "dados_adicionais_item": "",
+                    "item_pedido_compra": 0,
+                    "nao_gerar_financeiro": "N",
+                    "nao_movimentar_estoque": "N",
+                    "nao_somar_total": "N",
+                    "numero_pedido_compra": "",
+                    "peso_bruto": 0.5,
+                    "peso_liquido": 0.5
+                },
+                "observacao": {},
+                "produto": {
+                    "cfop": "6.102",
+                    "cnpj_fabricante": "",
+                    "codigo": "PRD00004",
+                    "codigo_produto": 3824692810,
+                    "codigo_tabela_preco": 2,
+                    "descricao": "Fórmula",
+                    "ean": "",
+                    "indicador_escala": "",
+                    "motivo_icms_desonerado": "",
+                    "ncm": "4901.99.00",
+                    "percentual_desconto": 0,
+                    "quantidade": 1,
+                    "reservado": "N",
+                    "tipo_desconto": "P",
+                    "unidade": "1 UNID",
+                    "valor_deducao": 0,
+                    "valor_desconto": 0,
+                    "valor_icms_desonerado": 0,
+                    "valor_mercadoria": 1970,
+                    "valor_total": 1970,
+                    "valor_unitario": 1970
+                },
+                "rastreabilidade": {},
+                "tributavel": {}
+            }
+        ],
+        "exportacao": {
+            "nao_exportacao": "N"
+        },
+        "frete": {
+            "codigo_rastreio": "",
+            "codigo_tipo_entrega": 0,
+            "codigo_transportadora": 0,
+            "especie_volumes": "",
+            "link_rastreio": "",
+            "marca_volumes": "",
+            "modalidade": "9",
+            "numeracao_volumes": "",
+            "numero_lacre": "",
+            "outras_despesas": 0,
+            "peso_bruto": 0.5,
+            "peso_liquido": 0.5,
+            "placa": "",
+            "placa_estado": "",
+            "previsao_entrega": "",
+            "quantidade_volumes": 0,
+            "registro_transportador": "",
+            "valor_frete": 0,
+            "valor_seguro": 0,
+            "veiculo_proprio": ""
+        },
+        "infoCadastro": {
+            "autorizado": "S",
+            "cImpAPI": "N",
+            "cancelado": "N",
+            "dAlt": "03/12/2025",
+            "dFat": "03/12/2025",
+            "dInc": "03/12/2025",
+            "denegado": "N",
+            "devolvido": "N",
+            "devolvido_parcial": "N",
+            "faturado": "S",
+            "hAlt": "17:06:07",
+            "hFat": "17:06:07",
+            "hInc": "17:03:30",
+            "uAlt": "P000393674",
+            "uFat": "P000393674",
+            "uInc": "P000393674"
+        },
+        "informacoes_adicionais": {
+            "codProj": 0,
+            "codVend": 3885047441,
+            "codigo_categoria": "1.01.03",
+            "codigo_conta_corrente": 3504680807,
+            "consumidor_final": "S",
+            "contato": "",
+            "dados_adicionais_nf": "",
+            "enviar_email": "N",
+            "enviar_pix": "N",
+            "numero_contrato": "",
+            "numero_pedido_cliente": "",
+            "outros_detalhes": {},
+            "utilizar_emails": "nikabraidshairs@gmail.com"
+        },
+        "lista_parcelas": {
+            "parcela": [
+                {
+                    "data_vencimento": "03/12/2025",
+                    "numero_parcela": 1,
+                    "parcela_adiantamento": "N",
+                    "percentual": 100,
+                    "quantidade_dias": 0,
+                    "valor": 1970
+                }
+            ]
+        },
+        "observacoes": {
+            "obs_venda": "Pedido reprocessado ao alterar dados do cliente 23/04/2025 14:45:14 usuário: Vanesa de Oliveira"
+        },
+        "total_pedido": {
+            "base_calculo_icms": 0,
+            "base_calculo_st": 0,
+            "base_ibs_cbs": 1970,
+            "valor_IPI": 0,
+            "valor_cbs": 17.73,
+            "valor_cofins": 0,
+            "valor_csll": 0,
+            "valor_deducoes": 0,
+            "valor_descontos": 0,
+            "valor_dif_cbs": 0,
+            "valor_dif_ibs_mu": 0,
+            "valor_dif_ibs_uf": 0,
+            "valor_ibs": 1.97,
+            "valor_ibs_mu": 0,
+            "valor_ibs_uf": 1.97,
+            "valor_icms": 0,
+            "valor_inss": 0,
+            "valor_ir": 0,
+            "valor_iss": 0,
+            "valor_mercadorias": 1970,
+            "valor_pis": 0,
+            "valor_st": 0,
+            "valor_tot_ibs_cbs_is": 1970,
+            "valor_total_pedido": 1970
+        }
+    },
+    {
+        "cabecalho": {
+            "bloqueado": "",
+            "codigo_cenario_impostos": "3540873990",
+            "codigo_cliente": 3948674219,
+            "codigo_empresa": 3502894615,
+            "codigo_parcela": "T56",
+            "codigo_pedido": 3948674567,
+            "codigo_pedido_integracao": "",
+            "data_previsao": "09/12/2025",
+            "enc_data": "",
+            "enc_hora": "",
+            "enc_motivo": "",
+            "enc_user": "",
+            "encerrado": "",
+            "etapa": "10",
+            "importado_api": "",
+            "numero_pedido": "723",
+            "origem_pedido": "ERP",
+            "qtde_parcelas": 12,
+            "quantidade_itens": 1
+        },
+        "departamentos": [],
+        "det": [
+            {
+                "combustivel": {},
+                "ide": {
+                    "codigo_item": 3948674591,
+                    "codigo_item_integracao": "",
+                    "simples_nacional": "N"
+                },
+                "imposto": {
+                    "cbs": {
+                        "aliquota_cbs": 0.9,
+                        "perc_dif_cbs": 0,
+                        "perc_red_cbs": 0,
+                        "valor_cbs": 63.72,
+                        "valor_dif_cbs": 0
+                    },
+                    "cofins_padrao": {
+                        "aliq_cofins": 0,
+                        "base_cofins": 0,
+                        "cod_sit_trib_cofins": "08",
+                        "qtde_unid_trib_cofins": 0,
+                        "tipo_calculo_cofins": "",
+                        "valor_cofins": 0,
+                        "valor_unid_trib_cofins": 0
+                    },
+                    "cofins_st": {
+                        "aliq_cofins_st": 0,
+                        "base_cofins_st": 0,
+                        "cod_sit_trib_cofins_st": "08",
+                        "margem_cofins_st": 0,
+                        "qtde_unid_trib_cofins_st": 0,
+                        "tipo_calculo_cofins_st": "",
+                        "valor_cofins_st": 0,
+                        "valor_unid_trib_cofins_st": 0
+                    },
+                    "csll": {
+                        "aliq_csll": 0,
+                        "valor_csll": 0
+                    },
+                    "ibs": {
+                        "aliquota_ibs_mu": 0,
+                        "aliquota_ibs_uf": 0.1,
+                        "perc_dif_ibs_mu": 0,
+                        "perc_dif_ibs_uf": 0,
+                        "perc_red_ibs_mu": 0,
+                        "perc_red_ibs_uf": 0,
+                        "valor_dif_ibs_mu": 0,
+                        "valor_dif_ibs_uf": 0,
+                        "valor_ibs": 7.08,
+                        "valor_ibs_mu": 0,
+                        "valor_ibs_uf": 7.08
+                    },
+                    "ibs_cbs": {
+                        "base_ibs_cbs": 7080,
+                        "class_trib": "000001",
+                        "cst_ibs_cbs": "000"
+                    },
+                    "icms": {
+                        "aliq_icms": 0,
+                        "base_icms": 0,
+                        "cod_sit_trib_icms": "40",
+                        "modalidade_icms": "3",
+                        "origem_icms": "0",
+                        "perc_red_base_icms": 0,
+                        "valor_icms": 0
+                    },
+                    "icms_efet": {},
+                    "icms_ie": {
+                        "aliq_icms_FCP": 0,
+                        "aliq_interestadual": 0,
+                        "aliq_interna_uf_destino": 0,
+                        "aliq_partilha_icms": 100,
+                        "base_icms_uf_destino": 7080,
+                        "valor_fcp_icms_inter": 0,
+                        "valor_icms_uf_dest": 0,
+                        "valor_icms_uf_remet": 0
+                    },
+                    "icms_sn": {},
+                    "icms_st": {
+                        "aliq_icms_opprop": 0,
+                        "aliq_icms_st": 0,
+                        "base_icms_st": 0,
+                        "cest": "",
+                        "cod_sit_trib_icms_st": "40",
+                        "margem_icms_st": 0,
+                        "modalidade_icms_st": "",
+                        "perc_red_base_icms_op": 0,
+                        "perc_red_base_icms_st": 0,
+                        "valor_icms_st": 0
+                    },
+                    "inss": {
+                        "aliq_inss": 0,
+                        "valor_inss": 0
+                    },
+                    "ipi": {
+                        "aliq_ipi": 0,
+                        "base_ipi": 0,
+                        "cod_sit_trib_ipi": "53",
+                        "enquadramento_ipi": "999",
+                        "qtde_unid_trib_ipi": 0,
+                        "tipo_calculo_ipi": "",
+                        "valor_ipi": 0,
+                        "valor_unid_trib_ipi": 0
+                    },
+                    "irrf": {
+                        "aliq_irrf": 0,
+                        "valor_irrf": 0
+                    },
+                    "iss": {
+                        "aliq_iss": 0,
+                        "base_iss": 0,
+                        "retem_iss": "",
+                        "valor_iss": 0
+                    },
+                    "pis_padrao": {
+                        "aliq_pis": 0,
+                        "base_pis": 0,
+                        "cod_sit_trib_pis": "08",
+                        "qtde_unid_trib_pis": 0,
+                        "tipo_calculo_pis": "",
+                        "valor_pis": 0,
+                        "valor_unid_trib_pis": 0
+                    },
+                    "pis_st": {
+                        "aliq_pis_st": 0,
+                        "base_pis_st": 0,
+                        "cod_sit_trib_pis_st": "08",
+                        "margem_pis_st": 0,
+                        "qtde_unid_trib_pis_st": 0,
+                        "tipo_calculo_pis_st": "",
+                        "valor_pis_st": 0,
+                        "valor_unid_trib_pis_st": 0
+                    },
+                    "trib_reg": {
+                        "aliquota_reg_cbs": 0,
+                        "aliquota_reg_ibs_mu": 0,
+                        "aliquota_reg_ibs_uf": 0,
+                        "class_trib_reg": "",
+                        "cst_reg_ibs_cst": "",
+                        "valor_reg_cbs": 0,
+                        "valor_reg_ibs_mu": 0,
+                        "valor_reg_ibs_uf": 0
+                    }
+                },
+                "inf_adic": {
+                    "codigo_categoria_item": "1.01.03",
+                    "codigo_cenario_impostos_item": "3540873990",
+                    "codigo_local_estoque": 3502894625,
+                    "dados_adicionais_item": "",
+                    "item_pedido_compra": 0,
+                    "nao_gerar_financeiro": "N",
+                    "nao_movimentar_estoque": "N",
+                    "nao_somar_total": "N",
+                    "numero_pedido_compra": "",
+                    "peso_bruto": 0.5,
+                    "peso_liquido": 0.5
+                },
+                "observacao": {},
+                "produto": {
+                    "cfop": "6.102",
+                    "cnpj_fabricante": "",
+                    "codigo": "PRD00003",
+                    "codigo_produto": 3598805071,
+                    "codigo_tabela_preco": 2,
+                    "descricao": "Método do Salão Lucrativo",
+                    "ean": "",
+                    "indicador_escala": "",
+                    "motivo_icms_desonerado": "",
+                    "ncm": "4901.99.00",
+                    "percentual_desconto": 0,
+                    "quantidade": 1,
+                    "reservado": "N",
+                    "tipo_desconto": "V",
+                    "unidade": "1 UNID",
+                    "valor_deducao": 0,
+                    "valor_desconto": 0,
+                    "valor_icms_desonerado": 0,
+                    "valor_mercadoria": 7080,
+                    "valor_total": 7080,
+                    "valor_unitario": 7080
+                },
+                "rastreabilidade": {},
+                "tributavel": {}
+            }
+        ],
+        "exportacao": {
+            "nao_exportacao": "N"
+        },
+        "frete": {
+            "codigo_rastreio": "",
+            "codigo_tipo_entrega": 0,
+            "codigo_transportadora": 0,
+            "especie_volumes": "",
+            "link_rastreio": "",
+            "marca_volumes": "",
+            "modalidade": "9",
+            "numeracao_volumes": "",
+            "numero_lacre": "",
+            "outras_despesas": 0,
+            "peso_bruto": 0.5,
+            "peso_liquido": 0.5,
+            "placa": "",
+            "placa_estado": "",
+            "previsao_entrega": "",
+            "quantidade_volumes": 0,
+            "registro_transportador": "",
+            "valor_frete": 0,
+            "valor_seguro": 0,
+            "veiculo_proprio": ""
+        },
+        "infoCadastro": {
+            "autorizado": "N",
+            "cImpAPI": "N",
+            "cancelado": "N",
+            "dAlt": "09/12/2025",
+            "dInc": "09/12/2025",
+            "denegado": "N",
+            "devolvido": "N",
+            "devolvido_parcial": "N",
+            "faturado": "N",
+            "hAlt": "18:01:59",
+            "hInc": "18:00:35",
+            "uAlt": "P000393674",
+            "uInc": "P000393674"
+        },
+        "informacoes_adicionais": {
+            "codProj": 0,
+            "codVend": 3584940050,
+            "codigo_categoria": "1.01.03",
+            "codigo_conta_corrente": 3747672900,
+            "consumidor_final": "S",
+            "contato": "",
+            "dados_adicionais_nf": "",
+            "enviar_email": "N",
+            "enviar_pix": "N",
+            "numero_contrato": "",
+            "numero_pedido_cliente": "",
+            "outros_detalhes": {},
+            "utilizar_emails": "renataferraz.ab@hotmail.com"
+        },
+        "lista_parcelas": {
+            "parcela": [
+                {
+                    "data_vencimento": "09/12/2025",
+                    "numero_parcela": 1,
+                    "percentual": 8.33,
+                    "quantidade_dias": 0,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "08/01/2026",
+                    "numero_parcela": 2,
+                    "percentual": 8.33,
+                    "quantidade_dias": 30,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "07/02/2026",
+                    "numero_parcela": 3,
+                    "percentual": 8.33,
+                    "quantidade_dias": 60,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "09/03/2026",
+                    "numero_parcela": 4,
+                    "percentual": 8.33,
+                    "quantidade_dias": 90,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "08/04/2026",
+                    "numero_parcela": 5,
+                    "percentual": 8.33,
+                    "quantidade_dias": 120,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "08/05/2026",
+                    "numero_parcela": 6,
+                    "percentual": 8.33,
+                    "quantidade_dias": 150,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "07/06/2026",
+                    "numero_parcela": 7,
+                    "percentual": 8.33,
+                    "quantidade_dias": 180,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "07/07/2026",
+                    "numero_parcela": 8,
+                    "percentual": 8.33,
+                    "quantidade_dias": 210,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "06/08/2026",
+                    "numero_parcela": 9,
+                    "percentual": 8.33,
+                    "quantidade_dias": 240,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "05/09/2026",
+                    "numero_parcela": 10,
+                    "percentual": 8.33,
+                    "quantidade_dias": 270,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "05/10/2026",
+                    "numero_parcela": 11,
+                    "percentual": 8.33,
+                    "quantidade_dias": 300,
+                    "valor": 590
+                },
+                {
+                    "data_vencimento": "04/11/2026",
+                    "numero_parcela": 12,
+                    "percentual": 8.37,
+                    "quantidade_dias": 330,
+                    "valor": 590
+                }
+            ]
+        },
+        "observacoes": {
+            "obs_venda": "Pedido reprocessado ao alterar dados do cliente 18/09/2025 09:20:02 usuário: Angélica|Pedido reprocessado ao alterar dados do cliente 23/04/2025 14:45:14 usuário: Vanesa de Oliveira"
+        },
+        "total_pedido": {
+            "base_calculo_icms": 0,
+            "base_calculo_st": 0,
+            "base_ibs_cbs": 7080,
+            "valor_IPI": 0,
+            "valor_cbs": 63.72,
+            "valor_cofins": 0,
+            "valor_csll": 0,
+            "valor_deducoes": 0,
+            "valor_descontos": 0,
+            "valor_dif_cbs": 0,
+            "valor_dif_ibs_mu": 0,
+            "valor_dif_ibs_uf": 0,
+            "valor_ibs": 7.08,
+            "valor_ibs_mu": 0,
+            "valor_ibs_uf": 7.08,
+            "valor_icms": 0,
+            "valor_inss": 0,
+            "valor_ir": 0,
+            "valor_iss": 0,
+            "valor_mercadorias": 7080,
+            "valor_pis": 0,
+            "valor_st": 0,
+            "valor_tot_ibs_cbs_is": 7080,
+            "valor_total_pedido": 7080
+        }
+    }
+]
