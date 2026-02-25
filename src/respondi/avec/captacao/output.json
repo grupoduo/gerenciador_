@@ -1,0 +1,586 @@
+[
+    {
+        "form": {
+            "form_name": "Novo formulário Avec Franquia Barueri",
+            "form_id": "ceksxHyj"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-07-01 11:50:05",
+            "score": 0,
+            "respondent_id": "38268789-a353-4d1d-8c5a-56a390763268",
+            "answers": {
+                "Qual é o seu nome completo?": "Priscila de Araújo Santos",
+                "Qual é o seu número de Whatsapp?": "55 11949670795",
+                "Qual é o seu melhor e-mail?": "prifest09@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "Studio Cleber Aprijo",
+                "Em qual estado seu salão está situado?": "São Paulo",
+                "Em qual cidade seu salão está situado?": "Mooca-SP",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "9 anos",
+                "Qual o número de colaboradores no seu time?": "Acima de 10",
+                "Em qual àrea você sente mais dificuldade hoje?": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores",
+                "Quanto você fatura no seu negócio mensalmente?": "61 mil a 100 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "name"
+                    },
+                    "answer": "Priscila de Araújo Santos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "phone"
+                    },
+                    "answer": {
+                        "country": "55",
+                        "phone": "11949670795"
+                    }
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "email"
+                    },
+                    "answer": "prifest09@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "Studio Cleber Aprijo"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "São Paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Mooca-SP"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Dono(a) e profissional do seu negócio"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Tenho lucro mas não sei o valor exato"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "9 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Acima de 10"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "61 mil a 100 mil"
+                    ]
+                }
+            ],
+            "respondent_utms": {
+                "utm_source": "",
+                "utm_medium": "",
+                "utm_campaign": "",
+                "utm_term": "",
+                "utm_content": "",
+                "gclid": "",
+                "fbclid": ""
+            }
+        }
+    },
+    {
+        "form": {
+            "form_name": "Novo formulário Avec Franquia Barueri",
+            "form_id": "ceksxHyj"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-07-02 11:50:11",
+            "score": 0,
+            "respondent_id": "cdaad21f-c77b-447f-9bd3-8c38b653ab22",
+            "answers": {
+                "Qual é o seu nome completo?": "Predo Paulo",
+                "Qual é o seu número de Whatsapp?": "55 91991367481",
+                "Qual é o seu melhor e-mail?": "paulbarbershow@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "Shinbarbearia",
+                "Em qual estado seu salão está situado?": "Pará",
+                "Em qual cidade seu salão está situado?": "Belém",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Não tenho lucro",
+                "Qual o tempo de atuação no seu negócio?": "7 meses nesse local.",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "Todas as opções acima",
+                "Quanto você fatura no seu negócio mensalmente?": "0 a 9 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "name"
+                    },
+                    "answer": "Predo Paulo"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "phone"
+                    },
+                    "answer": {
+                        "country": "55",
+                        "phone": "91991367481"
+                    }
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "email"
+                    },
+                    "answer": "paulbarbershow@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "Shinbarbearia"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Pará"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Belém"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Dono(a) e profissional do seu negócio"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Não tenho lucro"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "7 meses nesse local."
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "1 a 3"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Todas as opções acima"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "0 a 9 mil"
+                    ]
+                }
+            ],
+            "respondent_utms": {
+                "utm_source": "",
+                "utm_medium": "",
+                "utm_campaign": "",
+                "utm_term": "",
+                "utm_content": "",
+                "gclid": "",
+                "fbclid": ""
+            }
+        }
+    },
+    {
+        "form": {
+            "form_name": "Novo formulário Avec Franquia Barueri",
+            "form_id": "ceksxHyj"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-07-02 13:22:42",
+            "score": 0,
+            "respondent_id": "9790e1fb-8ab8-41e0-bbbc-679fbf2467a6",
+            "answers": {
+                "Qual é o seu nome completo?": "Miriã Antunes Duarte",
+                "Qual é o seu número de Whatsapp?": "55 15988049759",
+                "Qual é o seu melhor e-mail?": "miriaantunes3@gmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@miriaa.hairstylist",
+                "Em qual estado seu salão está situado?": "Sp",
+                "Em qual cidade seu salão está situado?": "Votorantim",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "11 anos",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores",
+                "Quanto você fatura no seu negócio mensalmente?": "10 mil a 20 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "name"
+                    },
+                    "answer": "Miriã Antunes Duarte"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "phone"
+                    },
+                    "answer": {
+                        "country": "55",
+                        "phone": "15988049759"
+                    }
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "email"
+                    },
+                    "answer": "miriaantunes3@gmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@miriaa.hairstylist"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "Sp"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Votorantim"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Dono(a) e profissional do seu negócio"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Tenho lucro mas não sei o valor exato"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "11 anos"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "1 a 3"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "GESTÃO DE PESSOAS - atração, retenção e manutenção de colaboradores"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "10 mil a 20 mil"
+                    ]
+                }
+            ],
+            "respondent_utms": {
+                "utm_source": "",
+                "utm_medium": "",
+                "utm_campaign": "",
+                "utm_term": "",
+                "utm_content": "",
+                "gclid": "",
+                "fbclid": ""
+            }
+        }
+    },
+    {
+        "form": {
+            "form_name": "Novo formulário Avec Franquia Barueri",
+            "form_id": "ceksxHyj"
+        },
+        "respondent": {
+            "status": "completed",
+            "date": "2025-07-02 14:01:31",
+            "score": 0,
+            "respondent_id": "cd07c10f-3387-4583-9837-6c86bcd3c643",
+            "answers": {
+                "Qual é o seu nome completo?": "Vanessa Chagas",
+                "Qual é o seu número de Whatsapp?": "55 11947294511",
+                "Qual é o seu melhor e-mail?": "vanessachgs@hotmail.com",
+                "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@avec.barueri",
+                "Em qual estado seu salão está situado?": "SP",
+                "Em qual cidade seu salão está situado?": "Barueri",
+                "Quem é você dentro do negócio?": "Dono(a) e profissional do seu negócio",
+                "Você tem clareza do lucro do seu negócio?": "Tenho lucro mas não sei o valor exato",
+                "Qual o tempo de atuação no seu negócio?": "1 ano",
+                "Qual o número de colaboradores no seu time?": "1 a 3",
+                "Em qual àrea você sente mais dificuldade hoje?": "VENDAS - produtos / serviços de ações comerciais",
+                "Quanto você fatura no seu negócio mensalmente?": "10 mil a 20 mil"
+            },
+            "raw_answers": [
+                {
+                    "question": {
+                        "question_title": "Qual é o seu nome completo?",
+                        "question_id": "xopyalskloic",
+                        "question_type": "name"
+                    },
+                    "answer": "Vanessa Chagas"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu número de Whatsapp?",
+                        "question_id": "x9qne4si4vzp",
+                        "question_type": "phone"
+                    },
+                    "answer": {
+                        "country": "55",
+                        "phone": "11947294511"
+                    }
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o seu melhor e-mail?",
+                        "question_id": "xk4qpp2lhoh",
+                        "question_type": "email"
+                    },
+                    "answer": "vanessachgs@hotmail.com"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                        "question_id": "xg6ayiq29rwf",
+                        "question_type": "text"
+                    },
+                    "answer": "@avec.barueri"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual estado seu salão está situado?",
+                        "question_id": "xzn55i94d4f",
+                        "question_type": "text"
+                    },
+                    "answer": "SP"
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual cidade seu salão está situado?",
+                        "question_id": "xd115sg65bpr",
+                        "question_type": "text"
+                    },
+                    "answer": "Barueri"
+                },
+                {
+                    "question": {
+                        "question_title": "Quem é você dentro do negócio?",
+                        "question_id": "xjnirz2pqgy",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Dono(a) e profissional do seu negócio"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Você tem clareza do lucro do seu negócio?",
+                        "question_id": "xuvuahv3jyor",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "Tenho lucro mas não sei o valor exato"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o tempo de atuação no seu negócio?",
+                        "question_id": "xt2h6820w2x",
+                        "question_type": "text"
+                    },
+                    "answer": "1 ano"
+                },
+                {
+                    "question": {
+                        "question_title": "Qual o número de colaboradores no seu time?",
+                        "question_id": "xotep0x273uc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "1 a 3"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                        "question_id": "x3c9u8ihorn4",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "VENDAS - produtos / serviços de ações comerciais"
+                    ]
+                },
+                {
+                    "question": {
+                        "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                        "question_id": "xwmol4zkwuc",
+                        "question_type": "radio"
+                    },
+                    "answer": [
+                        "10 mil a 20 mil"
+                    ]
+                }
+            ],
+            "respondent_utms": {
+                "utm_source": "",
+                "utm_medium": "",
+                "utm_campaign": "",
+                "utm_term": "",
+                "utm_content": "",
+                "gclid": "",
+                "fbclid": ""
+            }
+        }
+    }
+]

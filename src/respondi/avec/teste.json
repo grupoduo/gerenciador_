@@ -1,0 +1,77 @@
+{
+    "form": {
+        "form_name": "Selene - Aplicação Consultoria Gratuita",
+        "form_id": "QOFvxyLH"
+    },
+    "respondent": {
+        "status": "incomplete",
+        "date": "2025-07-16 01:08:24",
+        "score": 50,
+        "respondent_id": "e593d19f-20e3-45cd-afc8-cf52371e742c",
+        "answers": {
+            "Qual é o seu nome completo?": "Suelen Regina de Sousa Scolarique",
+            "Qual é o seu número de Whatsapp?": "55 16991853457",
+            "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?": "Divido a decisão com meu(a) cônjuge",
+            "Por que você acredita que participar da consultoria gratuita é a oportunidade ideal para você e para o crescimento do seu negócio?": "Quanto mais conhecimento gera mais resultados para o salão.",
+            "Quanto você fatura no seu negócio mensalmente?": "21 mil a 40 mil"
+        },
+        "raw_answers": [
+            {
+                "question": {
+                    "question_title": "Qual é o seu nome completo?",
+                    "question_id": "xopyalskloic",
+                    "question_type": "name"
+                },
+                "answer": "Suelen Regina de Sousa Scolarique"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu número de Whatsapp?",
+                    "question_id": "x9qne4si4vzp",
+                    "question_type": "phone"
+                },
+                "answer": {
+                    "country": "55",
+                    "phone": "16991853457"
+                }
+            },
+            {
+                "question": {
+                    "question_title": "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?",
+                    "question_id": "x4zs1uodqhmm",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Divido a decisão com meu(a) cônjuge"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Por que você acredita que participar da consultoria gratuita é a oportunidade ideal para você e para o crescimento do seu negócio?",
+                    "question_id": "xnv2toco841k",
+                    "question_type": "textarea"
+                },
+                "answer": "Quanto mais conhecimento gera mais resultados para o salão."
+            },
+            {
+                "question": {
+                    "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                    "question_id": "xnzy9grkm1d",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "21 mil a 40 mil"
+                ]
+            }
+        ],
+        "respondent_utms": {
+            "utm_source": "",
+            "utm_medium": "",
+            "utm_campaign": "",
+            "utm_term": "",
+            "utm_content": "",
+            "gclid": "",
+            "fbclid": ""
+        }
+    }
+}

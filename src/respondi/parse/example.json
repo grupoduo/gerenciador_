@@ -1,0 +1,148 @@
+{
+    "form": {
+        "form_name": "Webinário Plano Salão Milionário Janeiro/2026 - PSL",
+        "form_id": "2cVqBrQn"
+    },
+    "respondent": {
+        "status": "completed",
+        "date": "2026-01-23 21:00:19",
+        "score": 100,
+        "respondent_id": "f46466a6-ab68-424c-a934-7f7f5fa7c0e4",
+        "answers": {
+            "Qual é o seu nome completo?": "Evandro Teste",
+            "Qual é o seu número de Whatsapp?": "55 54998989766",
+            "Qual é o seu melhor e-mail?": "evandrouzeda@gmail.com",
+            "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@evandrohairstyle",
+            "Em qual estado seu salão está situado?": "Acre",
+            "Em qual cidade seu salão está situado?": "Passo Fundo",
+            "Quem é você dentro do negócio?": "Apenas dono(a)",
+            "Você tem clareza do lucro do seu negócio?": "Não tenho lucro",
+            "Qual o tempo de atuação no seu negócio?": "10 anos",
+            "Qual o número de colaboradores no seu time?": "1 a 3",
+            "Em qual àrea você sente mais dificuldade hoje?": "FINANCEIRO - leitura de resultado / precificação / lucro / despesas",
+            "Quanto você fatura no seu negócio mensalmente?": "13 mil a 24 mil",
+            "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém? uma pergunta...": "Decido sozinho(a)"
+        },
+        "raw_answers": [
+            {
+                "question": {
+                    "question_title": "Qual é o seu nome completo?",
+                    "question_id": "xopyalskloic",
+                    "question_type": "name"
+                },
+                "answer": "Evandro Teste"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu número de Whatsapp?",
+                    "question_id": "x9qne4si4vzp",
+                    "question_type": "phone"
+                },
+                "answer": {
+                    "country": "55",
+                    "phone": "54998989766"
+                }
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu melhor e-mail?",
+                    "question_id": "xk4qpp2lhoh",
+                    "question_type": "email"
+                },
+                "answer": "evandrouzeda@gmail.com"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                    "question_id": "xg6ayiq29rwf",
+                    "question_type": "text"
+                },
+                "answer": "@evandrohairstyle"
+            },
+            {
+                "question": {
+                    "question_title": "Em qual estado seu salão está situado?",
+                    "question_id": "xzn55i94d4f",
+                    "question_type": "select"
+                },
+                "answer": "Acre"
+            },
+            {
+                "question": {
+                    "question_title": "Em qual cidade seu salão está situado?",
+                    "question_id": "xd115sg65bpr",
+                    "question_type": "text"
+                },
+                "answer": "Passo Fundo"
+            },
+            {
+                "question": {
+                    "question_title": "Quem é você dentro do negócio?",
+                    "question_id": "xjnirz2pqgy",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Apenas dono(a)"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Você tem clareza do lucro do seu negócio?",
+                    "question_id": "xuvuahv3jyor",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Não tenho lucro"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Qual o tempo de atuação no seu negócio?",
+                    "question_id": "xt2h6820w2x",
+                    "question_type": "text"
+                },
+                "answer": "10 anos"
+            },
+            {
+                "question": {
+                    "question_title": "Qual o número de colaboradores no seu time?",
+                    "question_id": "xotep0x273uc",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "1 a 3"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Em qual àrea você sente mais dificuldade hoje?",
+                    "question_id": "x3c9u8ihorn4",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "FINANCEIRO - leitura de resultado / precificação / lucro / despesas"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                    "question_id": "xwmol4zkwuc",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "13 mil a 24 mil"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém? uma pergunta...",
+                    "question_id": "xmhjgmwcq2lf",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Decido sozinho(a)"
+                ]
+            }
+        ]
+    }
+}

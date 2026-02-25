@@ -1,0 +1,3295 @@
+{
+  "_total_items": 101,
+  "_page": 1,
+  "_page_count": 1,
+  "_links": {
+    "self": {
+      "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields?page=1&limit=250"
+    }
+  },
+  "_embedded": {
+    "custom_fields": [
+      {
+        "id": 1876822,
+        "name": "utm_content",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_CONTENT",
+        "sort": 603,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876822?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876824,
+        "name": "utm_medium",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_MEDIUM",
+        "sort": 604,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876824?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876826,
+        "name": "utm_campaign",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_CAMPAIGN",
+        "sort": 605,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876826?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876828,
+        "name": "utm_source",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_SOURCE",
+        "sort": 606,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876828?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876830,
+        "name": "utm_term",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_TERM",
+        "sort": 607,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876830?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876832,
+        "name": "utm_referrer",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "UTM_REFERRER",
+        "sort": 608,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876832?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876834,
+        "name": "referrer",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "REFERRER",
+        "sort": 609,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876834?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876836,
+        "name": "gclientid",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "GCLIENTID",
+        "sort": 610,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876836?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876838,
+        "name": "gclid",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "GCLID",
+        "sort": 611,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876838?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1876840,
+        "name": "fbclid",
+        "type": "tracking_data",
+        "account_id": 30842051,
+        "code": "FBCLID",
+        "sort": 612,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "statistic",
+        "required_statuses": [],
+        "is_deletable": false,
+        "is_predefined": true,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1876840?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1878425,
+        "name": "Data de entrada",
+        "type": "date",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 511,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [
+          34240549,
+          34240561,
+          34240815,
+          34240817,
+          34240819,
+          34240821,
+          34240823,
+          34240825,
+          34240827,
+          34240829,
+          34240831,
+          34240833,
+          34240835,
+          34242091
+        ],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1878425?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1878427,
+        "name": "Data de encerramento",
+        "type": "date",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 512,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1878427?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1878497,
+        "name": "Consultor",
+        "type": "multiselect",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 509,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1298619,
+            "value": "Tiago",
+            "sort": 1
+          },
+          {
+            "id": 1298621,
+            "value": "Guilherme",
+            "sort": 2
+          },
+          {
+            "id": 1298623,
+            "value": "Erisson",
+            "sort": 3
+          },
+          {
+            "id": 1298981,
+            "value": "Sabrina",
+            "sort": 4
+          },
+          {
+            "id": 1299557,
+            "value": "Cesar",
+            "sort": 5
+          },
+          {
+            "id": 1300119,
+            "value": "Thais",
+            "sort": 500
+          },
+          {
+            "id": 1301379,
+            "value": "Gabi",
+            "sort": 6
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1878497?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1878999,
+        "name": "Data da Reunião",
+        "type": "date_time",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 501,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": null,
+        "required_statuses": [
+          {
+            "pipeline_id": 11086428,
+            "status_id": 142
+          },
+          {
+            "pipeline_id": 9907288,
+            "status_id": 76076812
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [
+          32375813,
+          32375815,
+          32375817,
+          32708313,
+          32708315,
+          32708317,
+          32726255,
+          32726257,
+          32726259,
+          32788103,
+          34064029,
+          34088915,
+          34088967,
+          34089139
+        ],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1878999?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879015,
+        "name": "Produto Adquirido",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 513,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1299395,
+            "value": "Mapa do Salão Lucrativo - anual",
+            "sort": 500
+          },
+          {
+            "id": 1299397,
+            "value": "Mapa do Salão Lucrativo - semestral",
+            "sort": 1
+          },
+          {
+            "id": 1299399,
+            "value": "Método do Salão Lucrativo - anual",
+            "sort": 2
+          },
+          {
+            "id": 1299401,
+            "value": "Recepção Lucrativa - p/ recepcionistas",
+            "sort": 3
+          },
+          {
+            "id": 1299709,
+            "value": "Consultoria Individual Personalizada",
+            "sort": 4
+          },
+          {
+            "id": 1301567,
+            "value": "Formula Salão Lucrativo",
+            "sort": 5
+          }
+        ],
+        "group_id": "leads_35781723660365",
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 76076908
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879015?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879019,
+        "name": "Posição de cadeira",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 514,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1299409,
+            "value": "Primeira cadeira",
+            "sort": 500
+          },
+          {
+            "id": 1299411,
+            "value": "Segunda cadeira",
+            "sort": 1
+          },
+          {
+            "id": 1299413,
+            "value": "Terceira cadeira",
+            "sort": 2
+          }
+        ],
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879019?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879021,
+        "name": "Demais cadeiras",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 515,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879021?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879395,
+        "name": "Como você chegou até aqui?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 522,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879395?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879397,
+        "name": "DORES",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 523,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879397?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879399,
+        "name": "ENTAO RESOLVER ESSE MOTIVO É UMA PRIORIDADE PRA VOCÊ NESSE ANO?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 524,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879399?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879401,
+        "name": "ISSO JÁ É UMA DECISÃO?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 525,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879401?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879403,
+        "name": "Faturamento mensal",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 526,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879403?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879405,
+        "name": "Quanto desse faturamento está na sua mão?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 527,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879405?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879407,
+        "name": "Como o proprietário se remunera?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 528,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879407?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879409,
+        "name": "Lucro/caixa do salão?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 529,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879409?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879411,
+        "name": "Precificação?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 530,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879411?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879413,
+        "name": "Como você faz a gestão do fluxo de caixa? Tem sistema?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 531,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879413?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879415,
+        "name": "Custo Fixo?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 532,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879415?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879417,
+        "name": "Quantos profissionais? (conhecer a equipe, entender os planos de carreira e níveis)",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 533,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879417?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879419,
+        "name": "Como sua equipe é remunerada?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 534,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879419?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879421,
+        "name": "Como sua equipe reage quando você promove alguma mudança?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 535,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879421?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879423,
+        "name": "Você faz reuniões individuais e/ou em equipe?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 536,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879423?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879425,
+        "name": "Recepção, sim ou não, se sim, o que ela faz de mais importante?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 537,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879425?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879427,
+        "name": "Equipe técnica são bons vendedores?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 538,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879427?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879429,
+        "name": "O salão tem metas?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 539,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879429?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879431,
+        "name": "Eles tem metas?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 540,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879431?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879433,
+        "name": "Como você mede e como premia?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 541,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879433?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879435,
+        "name": "Qual o serviço mais importante?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 542,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879435?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879437,
+        "name": "número de clientes atendidos?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 543,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879437?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879439,
+        "name": "ticket médio/ numero de serviços por mês?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 544,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879439?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879441,
+        "name": "clientes novos por mês?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 545,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879441?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879443,
+        "name": "Qual é o faturamento ideal?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 546,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879443?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879445,
+        "name": "Percentual de lucro ideal?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 547,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879445?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879447,
+        "name": "Pro labore desejado?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 548,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879447?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879449,
+        "name": "Você está disposto a desenvolver novas habilidades para chegar nesse propósito?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 549,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879449?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879451,
+        "name": "Quais os desafios que você acredita enfrentar para chegar no faturamento desejado?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 550,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879451?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879453,
+        "name": "Você está disposto a enfrentar os desafios para chegar nesse propósito?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 551,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879453?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879455,
+        "name": "Há quanto tempo está sofrendo com esses problemas?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 552,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879455?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879457,
+        "name": "O que já tentou fazer para resolver?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 553,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879457?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879459,
+        "name": "O que já perdeu até agora?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 554,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879459?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879461,
+        "name": "Até quando você aguenta?",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 555,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_84101730756019",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879461?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879463,
+        "name": "Observações importantes",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 557,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_14051738265973",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879463?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879503,
+        "name": "Responsável Agendamento Reunião",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 502,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300081,
+            "value": "Thais",
+            "sort": 500
+          },
+          {
+            "id": 1300083,
+            "value": "Thiago",
+            "sort": 1
+          },
+          {
+            "id": 1300881,
+            "value": "Gabi",
+            "sort": 2
+          },
+          {
+            "id": 1301435,
+            "value": "Karine",
+            "sort": 3
+          },
+          {
+            "id": 1303411,
+            "value": "Josiane",
+            "sort": 4
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879503?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879555,
+        "name": "Compareceu",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 505,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300127,
+            "value": "Não",
+            "sort": 500
+          },
+          {
+            "id": 1300129,
+            "value": "Sim",
+            "sort": 1
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 76076908
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879555?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879559,
+        "name": "Etapa Atual",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 559,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300137,
+            "value": "8 Dias",
+            "sort": 500
+          },
+          {
+            "id": 1300139,
+            "value": "30 Dias",
+            "sort": 1
+          },
+          {
+            "id": 1300141,
+            "value": "2 Meses",
+            "sort": 2
+          },
+          {
+            "id": 1300143,
+            "value": "3 Meses",
+            "sort": 3
+          },
+          {
+            "id": 1300145,
+            "value": "4 Meses",
+            "sort": 4
+          },
+          {
+            "id": 1300147,
+            "value": "5 Meses",
+            "sort": 5
+          },
+          {
+            "id": 1300149,
+            "value": "6 Meses",
+            "sort": 6
+          },
+          {
+            "id": 1300151,
+            "value": "7 Meses",
+            "sort": 7
+          },
+          {
+            "id": 1300153,
+            "value": "8 Meses",
+            "sort": 8
+          },
+          {
+            "id": 1300155,
+            "value": "9 Meses",
+            "sort": 9
+          },
+          {
+            "id": 1300157,
+            "value": "10 Meses",
+            "sort": 10
+          },
+          {
+            "id": 1300159,
+            "value": "11 Meses",
+            "sort": 11
+          },
+          {
+            "id": 1300161,
+            "value": "12 Meses",
+            "sort": 12
+          },
+          {
+            "id": 1300163,
+            "value": "Venda Perdida",
+            "sort": 13
+          },
+          {
+            "id": 1300165,
+            "value": "Venda Ganha",
+            "sort": 14
+          }
+        ],
+        "group_id": "leads_29541740572642",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879559?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879693,
+        "name": "Tipo",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 565,
+        "is_api_only": true,
+        "enums": [
+          {
+            "id": 1300323,
+            "value": "Fatura Gerada",
+            "sort": 1
+          },
+          {
+            "id": 1300325,
+            "value": "Carrinho Abandonado",
+            "sort": 2
+          }
+        ],
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879693?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879695,
+        "name": "Status",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 566,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300327,
+            "value": "Aprovado",
+            "sort": 1
+          },
+          {
+            "id": 1300329,
+            "value": "Cancelado",
+            "sort": 2
+          },
+          {
+            "id": 1300331,
+            "value": "Aguardando Pagamento",
+            "sort": 3
+          },
+          {
+            "id": 1300333,
+            "value": "Chargeback",
+            "sort": 4
+          },
+          {
+            "id": 1300335,
+            "value": "Desconhecido",
+            "sort": 5
+          }
+        ],
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879695?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879697,
+        "name": "Método de Pagamento",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 567,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300337,
+            "value": "Cartão de Crédito",
+            "sort": 1
+          },
+          {
+            "id": 1300339,
+            "value": "Pix Gerado",
+            "sort": 2
+          },
+          {
+            "id": 1300341,
+            "value": "Boleto",
+            "sort": 3
+          },
+          {
+            "id": 1300343,
+            "value": "Transferência Bancária",
+            "sort": 4
+          },
+          {
+            "id": 1300345,
+            "value": "Carteiras Digitais",
+            "sort": 5
+          },
+          {
+            "id": 1300347,
+            "value": "Desconhecido",
+            "sort": 6
+          }
+        ],
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879697?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879699,
+        "name": "Nome do Produto",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 568,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879699?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879701,
+        "name": "Cod do Produto",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 569,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879701?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879703,
+        "name": "Cod Venda",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 570,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879703?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879705,
+        "name": "Cod da Oferta",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 571,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879705?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879707,
+        "name": "Link Pagamento",
+        "type": "url",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 572,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879707?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879709,
+        "name": "Nome do Afiliado",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 573,
+        "is_api_only": true,
+        "enums": null,
+        "group_id": "leads_98061742577819",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879709?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1879843,
+        "name": "Id Demais Cadeiras",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 516,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1879843?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1880251,
+        "name": "Reagendou",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 506,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300763,
+            "value": "Sim",
+            "sort": 500
+          },
+          {
+            "id": 1300765,
+            "value": "Não",
+            "sort": 1
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1880251?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1880253,
+        "name": "Cancelou o reagendamento",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 507,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1300767,
+            "value": "Sim",
+            "sort": 500
+          },
+          {
+            "id": 1300769,
+            "value": "Não",
+            "sort": 1
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1880253?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1880303,
+        "name": "Faturamento",
+        "type": "numeric",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 508,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": null,
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1880303?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1880511,
+        "name": "Closer",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 504,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1301283,
+            "value": "Tiago",
+            "sort": 500
+          },
+          {
+            "id": 1301285,
+            "value": "Érisson",
+            "sort": 1
+          },
+          {
+            "id": 1301287,
+            "value": "Sabrina",
+            "sort": 2
+          },
+          {
+            "id": 1301421,
+            "value": "Mauricio",
+            "sort": 3
+          },
+          {
+            "id": 1301457,
+            "value": "Gabriel",
+            "sort": 4
+          },
+          {
+            "id": 1302387,
+            "value": "Lemuel",
+            "sort": 5
+          },
+          {
+            "id": 1304390,
+            "value": "Tailor",
+            "sort": 6
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1880511?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881291,
+        "name": "FUP 1",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 577,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881291?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881293,
+        "name": "FUP 2",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 578,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881293?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881313,
+        "name": "FUP 3",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 579,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881313?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881315,
+        "name": "FUP 4",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 580,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881315?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881317,
+        "name": "FUP 5",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 581,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881317?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881319,
+        "name": "FUP 6",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 582,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881319?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881321,
+        "name": "FUP 7",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 583,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881321?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881323,
+        "name": "FUP 8",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 584,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881323?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881325,
+        "name": "FUP 9",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 585,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881325?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881327,
+        "name": "FUP 10",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 586,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881327?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881329,
+        "name": "FUP 11",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 587,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881329?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881331,
+        "name": "FUP 12",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 588,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881331?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881333,
+        "name": "FUP 13",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 589,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881333?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881335,
+        "name": "FUP 14",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 590,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881335?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881337,
+        "name": "FUP 15",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 591,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881337?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881339,
+        "name": "FUP 16",
+        "type": "checkbox",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 592,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881339?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881835,
+        "name": "Valor Pago no Cartão",
+        "type": "numeric",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 517,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881835?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881839,
+        "name": "Parcelamento no boleto",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 519,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1301999,
+            "value": "1x",
+            "sort": 1
+          },
+          {
+            "id": 1302001,
+            "value": "2x",
+            "sort": 2
+          },
+          {
+            "id": 1302003,
+            "value": "3x",
+            "sort": 3
+          },
+          {
+            "id": 1302005,
+            "value": "4x",
+            "sort": 4
+          },
+          {
+            "id": 1302007,
+            "value": "5x",
+            "sort": 5
+          },
+          {
+            "id": 1302009,
+            "value": "6x",
+            "sort": 6
+          },
+          {
+            "id": 1302011,
+            "value": "7x",
+            "sort": 7
+          },
+          {
+            "id": 1302013,
+            "value": "8x",
+            "sort": 8
+          },
+          {
+            "id": 1302015,
+            "value": "9x",
+            "sort": 9
+          },
+          {
+            "id": 1302017,
+            "value": "10x",
+            "sort": 10
+          },
+          {
+            "id": 1302019,
+            "value": "11x",
+            "sort": 11
+          },
+          {
+            "id": 1302021,
+            "value": "12x",
+            "sort": 12
+          },
+          {
+            "id": 1302023,
+            "value": "0x",
+            "sort": 500
+          }
+        ],
+        "group_id": "leads_35781723660365",
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881839?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881845,
+        "name": "Observações Sobre Pagamento",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 520,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [
+          {
+            "pipeline_id": 9907288,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881845?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1881879,
+        "name": "Valor Pago no Pix",
+        "type": "numeric",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 518,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_35781723660365",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1881879?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1882453,
+        "name": "Quem indicou",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 594,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_67951760374425",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1882453?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1882461,
+        "name": "dias faltantes",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 596,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1302753,
+            "value": "12 dias",
+            "sort": 500
+          },
+          {
+            "id": 1302755,
+            "value": "11 dias",
+            "sort": 1
+          },
+          {
+            "id": 1302757,
+            "value": "10 dias",
+            "sort": 2
+          },
+          {
+            "id": 1302759,
+            "value": "9 dias",
+            "sort": 3
+          },
+          {
+            "id": 1302761,
+            "value": "8 dias",
+            "sort": 4
+          },
+          {
+            "id": 1302763,
+            "value": "7 dias",
+            "sort": 5
+          },
+          {
+            "id": 1302765,
+            "value": "6 dias",
+            "sort": 6
+          },
+          {
+            "id": 1302767,
+            "value": "5 dias",
+            "sort": 7
+          },
+          {
+            "id": 1302769,
+            "value": "4 dias",
+            "sort": 8
+          },
+          {
+            "id": 1302771,
+            "value": "3 dias",
+            "sort": 9
+          },
+          {
+            "id": 1302773,
+            "value": "2 dias",
+            "sort": 10
+          },
+          {
+            "id": 1302775,
+            "value": "1 dias",
+            "sort": 11
+          },
+          {
+            "id": 1302777,
+            "value": "0 dias",
+            "sort": 12
+          },
+          {
+            "id": 1302779,
+            "value": "parar",
+            "sort": 13
+          }
+        ],
+        "group_id": "leads_62301760561606",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1882461?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1882491,
+        "name": "garantiu vaga",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 597,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1302867,
+            "value": "sim",
+            "sort": 500
+          },
+          {
+            "id": 1302869,
+            "value": "não",
+            "sort": 1
+          }
+        ],
+        "group_id": "leads_62301760561606",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1882491?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1882495,
+        "name": "Data do Webnario",
+        "type": "date_time",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 598,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_62301760561606",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [
+          33540387,
+          33540389,
+          33540391,
+          33540415,
+          33564445,
+          33564447,
+          33564541,
+          33564543,
+          33564545,
+          33564547,
+          33564549,
+          33564551,
+          33564553,
+          33564555,
+          33564557,
+          33640040,
+          33640042,
+          33640212,
+          33671918,
+          33671920,
+          33735793,
+          33735795,
+          33735797,
+          33735799,
+          33735801,
+          33735803
+        ],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1882495?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1882537,
+        "name": "enviou mensagem",
+        "type": "radiobutton",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 560,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1302915,
+            "value": "sim",
+            "sort": 500
+          },
+          {
+            "id": 1302917,
+            "value": "não",
+            "sort": 1
+          }
+        ],
+        "group_id": "leads_29541740572642",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1882537?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883479,
+        "name": "Início do Follow up",
+        "type": "date_time",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 576,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_15411755256975",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883479?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883523,
+        "name": "Produto Adquirido",
+        "type": "multiselect",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 601,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1303829,
+            "value": "Comprou Premium",
+            "sort": 500
+          },
+          {
+            "id": 1303831,
+            "value": "Comprou Master",
+            "sort": 1
+          },
+          {
+            "id": 1303833,
+            "value": "Comrpou Essencial",
+            "sort": 2
+          },
+          {
+            "id": 1303835,
+            "value": "Comprou Profissional individual",
+            "sort": 3
+          },
+          {
+            "id": 1303837,
+            "value": "Comprou MEI",
+            "sort": 4
+          }
+        ],
+        "group_id": "leads_18951765459847",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883523?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883700,
+        "name": "Nome Webinario",
+        "type": "text",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 599,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_62301760561606",
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883700?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883970,
+        "name": "Conhece o Maurício?",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 503,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1304356,
+            "value": "Sim",
+            "sort": 500
+          },
+          {
+            "id": 1304358,
+            "value": "Não",
+            "sort": 1
+          }
+        ],
+        "group_id": null,
+        "required_statuses": [],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883970?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883982,
+        "name": "Condições da renovação",
+        "type": "textarea",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 561,
+        "is_api_only": false,
+        "enums": null,
+        "group_id": "leads_29541740572642",
+        "required_statuses": [
+          {
+            "pipeline_id": 12927403,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883982?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883988,
+        "name": "Renovação",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 563,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1304370,
+            "value": "Sim",
+            "sort": 500
+          },
+          {
+            "id": 1304372,
+            "value": "Não",
+            "sort": 1
+          }
+        ],
+        "group_id": "leads_29541740572642",
+        "required_statuses": [
+          {
+            "pipeline_id": 12927403,
+            "status_id": 142
+          },
+          {
+            "pipeline_id": 9275232,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883988?page=1&limit=250"
+          }
+        }
+      },
+      {
+        "id": 1883990,
+        "name": "Reativação",
+        "type": "select",
+        "account_id": 30842051,
+        "code": null,
+        "sort": 564,
+        "is_api_only": false,
+        "enums": [
+          {
+            "id": 1304374,
+            "value": "Sim",
+            "sort": 500
+          },
+          {
+            "id": 1304376,
+            "value": "Não",
+            "sort": 1
+          }
+        ],
+        "group_id": "leads_29541740572642",
+        "required_statuses": [
+          {
+            "pipeline_id": 12927403,
+            "status_id": 142
+          }
+        ],
+        "is_deletable": true,
+        "is_predefined": false,
+        "entity_type": "leads",
+        "tracking_callback": null,
+        "remind": null,
+        "triggers": [],
+        "currency": null,
+        "hidden_statuses": [],
+        "chained_lists": null,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/custom_fields/1883990?page=1&limit=250"
+          }
+        }
+      }
+    ]
+  }
+}

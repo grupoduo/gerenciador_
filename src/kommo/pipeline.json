@@ -1,0 +1,228 @@
+{
+  "id": 10611840,
+  "name": "WEBNÁRIO",
+  "sort": 13,
+  "is_main": false,
+  "is_unsorted_on": false,
+  "is_archive": false,
+  "account_id": 30842051,
+  "_links": {
+    "self": {
+      "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840"
+    }
+  },
+  "_embedded": {
+    "statuses": [
+      {
+        "id": 81373860,
+        "name": "Etapa de leads de entrada",
+        "sort": 10,
+        "is_editable": false,
+        "pipeline_id": 10611840,
+        "color": "#c1c1c1",
+        "type": 1,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81373860"
+          }
+        }
+      },
+      {
+        "id": 81374596,
+        "name": "Acessos",
+        "sort": 20,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#e6e8ea",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81374596"
+          }
+        }
+      },
+      {
+        "id": 81374544,
+        "name": "Preencheu pré-formulario",
+        "sort": 30,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81374544"
+          }
+        }
+      },
+      {
+        "id": 81373864,
+        "name": "Comprou webnário",
+        "sort": 40,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#87f2c0",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81373864"
+          }
+        }
+      },
+      {
+        "id": 81564408,
+        "name": "Abandonou checkout webnário",
+        "sort": 50,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#ff8f92",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81564408"
+          }
+        }
+      },
+      {
+        "id": 81374548,
+        "name": "Obrigado Webnário",
+        "sort": 60,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#99ccff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81374548"
+          }
+        }
+      },
+      {
+        "id": 81373868,
+        "name": "Foi para themembers",
+        "sort": 70,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#98cbff",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81373868"
+          }
+        }
+      },
+      {
+        "id": 81373872,
+        "name": "comprou recepção lucrativa",
+        "sort": 80,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#87f2c0",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81373872"
+          }
+        }
+      },
+      {
+        "id": 81588808,
+        "name": "Abandonou checkout REcepção lucrativa",
+        "sort": 90,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#ff8f92",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81588808"
+          }
+        }
+      },
+      {
+        "id": 81374552,
+        "name": "the members recepção lucrativa",
+        "sort": 100,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#ffce5a",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81374552"
+          }
+        }
+      },
+      {
+        "id": 81374632,
+        "name": "metodo salão Lucrativo",
+        "sort": 110,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#deff81",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81374632"
+          }
+        }
+      },
+      {
+        "id": 81592464,
+        "name": "Abandonou checkout do Metodo",
+        "sort": 120,
+        "is_editable": true,
+        "pipeline_id": 10611840,
+        "color": "#ff8f92",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/81592464"
+          }
+        }
+      },
+      {
+        "id": 142,
+        "name": "metodo salão Lucrativo",
+        "sort": 10000,
+        "is_editable": false,
+        "pipeline_id": 10611840,
+        "color": "#CCFF66",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/142"
+          }
+        }
+      },
+      {
+        "id": 143,
+        "name": "Venda perdida",
+        "sort": 11000,
+        "is_editable": false,
+        "pipeline_id": 10611840,
+        "color": "#D5D8DB",
+        "type": 0,
+        "account_id": 30842051,
+        "_links": {
+          "self": {
+            "href": "https://grupoduoadm.kommo.com/api/v4/leads/pipelines/10611840/statuses/143"
+          }
+        }
+      }
+    ]
+  }
+}

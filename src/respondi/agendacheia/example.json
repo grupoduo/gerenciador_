@@ -1,0 +1,115 @@
+{
+    "form": {
+        "form_name": "Webnário Agenda Cheia",
+        "form_id": "zjk0FM6Z"
+    },
+    "respondent": {
+        "status": "completed",
+        "date": "2025-06-27 21:18:02",
+        "score": null,
+        "respondent_id": "998b7af7-5e19-4446-a7e0-75f65ebc8329",
+        "answers": {
+            "Qual é o seu nome completo?": "Evandro Desconsidere",
+            "Qual é o seu número de Whatsapp?": "55 54992627352",
+            "Qual é o seu melhor e-mail?": "evandrouzeda@gmail.com",
+            "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?": "@evandrohairstyle",
+            "Quanto você fatura no seu negócio mensalmente?": "61 mil a 100 mil",
+            "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?": "Decido sozinho(a)",
+            "Por que você acredita que participar da mentoria Mapa do Salão Lucrativo é a oportunidade ideal para você e para o crescimento do seu salão?": "sim",
+            "Esse é um grupo seleto e restrito, e o número de vagas é bastante limitado. Por que você acha que sua aplicação deve ser aceita?": "ok",
+            "O investimento para a participação na mentoria Mapa do Salão Lucrativo é de até 12x de R$1.249,00 no cartão de crédito ou R$12.900,00 à vista": "Sim, quero fazer o investimento parcelado."
+        },
+        "raw_answers": [
+            {
+                "question": {
+                    "question_title": "Qual é o seu nome completo?",
+                    "question_id": "xopyalskloic",
+                    "question_type": "name"
+                },
+                "answer": "Evandro Desconsidere"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu número de Whatsapp?",
+                    "question_id": "x9qne4si4vzp",
+                    "question_type": "phone"
+                },
+                "answer": {
+                    "country": "55",
+                    "phone": "54992627352"
+                }
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o seu melhor e-mail?",
+                    "question_id": "xk4qpp2lhoh",
+                    "question_type": "email"
+                },
+                "answer": "evandrouzeda@gmail.com"
+            },
+            {
+                "question": {
+                    "question_title": "Qual é o @ do instagram do seu salão e o @ do seu instagram pessoal?",
+                    "question_id": "xg6ayiq29rwf",
+                    "question_type": "text"
+                },
+                "answer": "@evandrohairstyle"
+            },
+            {
+                "question": {
+                    "question_title": "Quanto você fatura no seu negócio mensalmente?",
+                    "question_id": "xwmol4zkwuc",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "61 mil a 100 mil"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Quando se trata de investir no crescimento do salão, a decisão é 100% sua ou precisa alinhar com mais alguém?",
+                    "question_id": "x4zs1uodqhmm",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Decido sozinho(a)"
+                ]
+            },
+            {
+                "question": {
+                    "question_title": "Por que você acredita que participar da mentoria Mapa do Salão Lucrativo é a oportunidade ideal para você e para o crescimento do seu salão?",
+                    "question_id": "xnv2toco841k",
+                    "question_type": "textarea"
+                },
+                "answer": "sim"
+            },
+            {
+                "question": {
+                    "question_title": "Esse é um grupo seleto e restrito, e o número de vagas é bastante limitado. Por que você acha que sua aplicação deve ser aceita?",
+                    "question_id": "xifdp8ft1csb",
+                    "question_type": "textarea"
+                },
+                "answer": "ok"
+            },
+            {
+                "question": {
+                    "question_title": "O investimento para a participação na mentoria Mapa do Salão Lucrativo é de até 12x de R$1.249,00 no cartão de crédito ou R$12.900,00 à vista",
+                    "question_id": "xdk74j40rhxu",
+                    "question_type": "radio"
+                },
+                "answer": [
+                    "Sim, quero fazer o investimento parcelado."
+                ]
+            }
+        ],
+        "respondent_utms": {
+            "utm_source": "",
+            "utm_medium": "",
+            "utm_campaign": "",
+            "utm_term": "",
+            "utm_content": "",
+            "gclid": "",
+            "fbclid": ""
+        }
+    }
+}
