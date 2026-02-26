@@ -4,10 +4,14 @@ export default class Register {
     }
 
     make(lead, origin) {
-        this.repository.create("Registros", {
-            origin,
-            date: new Date(),
-            lead,
-        })
+        try {
+            this.repository.create("Registros", {
+                origin,
+                date: new Date(),
+                lead,
+            })
+        } catch (error) {
+            console.error("ERRO ao registrar auditoria:", origin, error.message)
+        }
     }
 }

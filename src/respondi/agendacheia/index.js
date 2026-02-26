@@ -1,29 +1,6 @@
-/**
- * @typedef { import("../../app").default } App
- * @typedef { import("express").Request } Request
- * @typedef { import("express").Response } Response
- * @param {App} app 
- * @param {Request} req 
- * @param {Response} res 
- */
-export default async (app, req, res) => {
-    console.log("chegou na agenda cheia")
-    //console.log(JSON.stringify(req.body))
-    res.json({ msg: "ok" })
-    const { respondent } = req.body
-    const answers = {}
-    respondent.raw_answers.forEach(answer => {
-        // Store answers keyed by question_id, handling array values
-        answers[answer.question.question_id] =
-            Array.isArray(answer.answer) ? answer.answer.join(', ') :
-                answer.question.question_type === "phone" ?
-                    `${answer.answer.country}${answer.answer.phone}` :
-                    answer.answer;
-    });
-    const contact = await createContact(app, answers)
-    if(!contact) return console.log(JSON.stringify(req.body))
-    await createLead(app, contact.id, answers["xopyalskloic"]);
-}
+import createContato from "../util/createContato.js"
+import createLead from "../util/createLead.js"
+import getName from "../util/getName.js"
 
 const answerFieldsMap = {
     "x9qne4si4vzp": 1876814,
@@ -35,49 +12,46 @@ const answerFieldsMap = {
     "xdk74j40rhxu": 1880733,
     "x4zs1uodqhmm": 1880735,
 }
-/**
- * @typedef { import("../app").default } App
- * @param {App} app 
- * @param {String} phone 
- */
-async function createContact(app, answers) {
-    console.log("Criando contato: ", answers["xopyalskloic"])
-    const custom_fields_values = []
-
-    for (const key in answers) {
-        if (key === "xopyalskloic") continue;
-        if(!answerFieldsMap[key]) continue;
-        custom_fields_values.push({
-            "field_id": answerFieldsMap[key],
-            "values": [
-                {
-                    "value": answers[key]
-                }
-            ]
-        })
-    }
-    const contactresponse = await app.kommo.ContactCreate({
-        name: answers["xopyalskloic"],
-        custom_fields_values
-    })
-    const contact = await contactresponse.json()
-    if (contact['validation-errors'])
-        return console.log("error: validation-errors", contact['validation-errors'][0])
-    return contact._embedded.contacts[0]
-}
 
 /**
- * @typedef { import("../app").default } App
- * @param {App} app 
- * @param {String} contact_id
+ * @typedef { import("../../app").default } App
+ * @typedef { import("express").Request } Request
+ * @typedef { import("express").Response } Response
+ * @param {App} app
+ * @param {Request} req
+ * @param {Response} res
  */
-async function createLead(app, contact_id, name) {
-    const kommolead = {
-        name,
-        _embedded: {
-            contacts: [{ 'id': contact_id }]
+export default async (app, req, res) => {
+    console.log("chegou na agenda cheia")
+    res.json({ msg: "ok" })
+
+    try {
+        const { respondent } = req.body
+
+        // Usa createContato compartilhado (COM deduplicação por telefone)
+        const contact = await createContato(app, respondent.raw_answers, answerFieldsMap)
+        if (!contact) {
+            console.error("FALHA AGENDACHEIA - contato não criado:", JSON.stringify(req.body))
+            // Registra falha para auditoria
+            app.register.make({ body: req.body, error: "contato não criado" }, "agendacheia-erro")
+            return
         }
+
+        const name = getName(respondent.raw_answers)
+        const leadName = name ? name.answer : "Sem nome"
+        const lead = await createLead(app, 11380836, 87977544, contact.id, leadName, respondent.respondent_utms)
+
+        if (!lead) {
+            console.error("FALHA AGENDACHEIA - lead não criado:", JSON.stringify(req.body))
+            app.register.make({ body: req.body, contact_id: contact.id, error: "lead não criado" }, "agendacheia-erro")
+            return
+        }
+
+        // Registra sucesso
+        app.register.make({ contact_id: contact.id, lead_id: lead.id, name: leadName }, "agendacheia")
+        console.log("AGENDACHEIA OK - Lead:", lead.id, "Contato:", contact.id)
+    } catch (error) {
+        console.error("ERRO CRÍTICO AGENDACHEIA:", error.message, error.stack)
+        app.register.make({ body: req.body, error: error.message }, "agendacheia-erro")
     }
-    const response = await app.kommo.LeadCreate(11380836, 87977544, "", kommolead)
-    console.log("Lead Criado: ", (await response.json())._embedded.leads[0].id)
 }
