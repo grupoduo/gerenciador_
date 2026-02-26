@@ -2515,6 +2515,7 @@ import listapsm from './src/psm/lista.js';
 import hotmart from './src/hotmart/index.js';
 import leadToPedido from './src/omnie/util/leadToPedido.js';
 import enviaomie from './src/kommo/enviaomie/index.js';
+import dinamico from './src/kommo/insight/dinamico.js';
 
 //pega todos o leads do kommo
 (async () => {
@@ -2831,4 +2832,10 @@ function promessaComAtrasoAleatorio() {
 
 (async () => {
 	leadToPedido(aplication, { id: 23017025 })
+});
+
+(async () => {
+	const lead = await kommo.LeadFind(23185687)
+	dinamico(aplication, lead)
+	leadToPedido(aplication, { id: lead.id })
 });

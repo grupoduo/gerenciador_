@@ -54,8 +54,8 @@ export default async (app, raw_lead) => {
         "nome_fantasia": contact.name,
         "cnpj_cpf": getCustom(contact, 1879711, "value"),
         "endereco": getCustom(contact, 1879193, "value"),
-        "endereco_numero": getCustom(contact, 1883537, "value"),
-        "bairro": getCustom(contact, 1883541, "value"),
+        "endereco_numero": getCustom(contact, 1883537, "value") || "",
+        "bairro": getCustom(contact, 1883541, "value") || "",
         "complemento": "",
         "estado": mapEstadosUF[getCustom(contact, 1880351, "value")],
         "cidade": `${getCustom(contact, 1878287, "value")}`,
@@ -69,7 +69,7 @@ export default async (app, raw_lead) => {
         "param": [Omnie_cliente]
     }
 
-    const omie = await new Promise(res => fetch("https://app.omie.com.br/api/v1/geral/clientes/", {
+    let omie = await new Promise(res => fetch("https://app.omie.com.br/api/v1/geral/clientes/", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
@@ -81,6 +81,10 @@ export default async (app, raw_lead) => {
         .catch(err => console.error(err)));
 
     console.log(omie)
+
+    if (omie.faultcode === 'SOAP-ENV:Client-101')
+        // aqui vai pegar todos os clientes e verificar o codigo do cliente
+        omie = await PegaClienteDaLista(1, Omnie_cliente.cnpj_cpf)
     // TODO: primeiro testar criacao de cliente depois tenho que pegar o id do cliente e criar o pedido
 
     /* 
@@ -154,10 +158,10 @@ export default async (app, raw_lead) => {
             "Content-Type": "application/json",
         },
         body: JSON.stringify({
-            "call":"IncluirPedido",
-            "app_key":"4142755857240",
-	        "app_secret":process.env.OMIE_SECRET,
-            "param":[request_pedido]
+            "call": "IncluirPedido",
+            "app_key": "4142755857240",
+            "app_secret": process.env.OMIE_SECRET,
+            "param": [request_pedido]
         })
     })
         .then(response => response.json())
@@ -222,4 +226,39 @@ function formatarData(data = new Date()) { // Aceita um objeto Date ou usa a dat
     const ano = data.getFullYear();
 
     return `${dia}/${mes}/${ano}`;
+}
+
+
+async function PegaClienteDaLista(pagina, cnpj_cpf) {
+    console.log(pagina)
+    const list = await fetch("https://app.omie.com.br/api/v1/geral/clientes/", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+            "call": "ListarClientes",
+            "app_key": "4142755857240",
+            "app_secret": process.env.OMIE_SECRET,
+            "param": [{
+                "pagina": pagina,
+                "registros_por_pagina": 50,
+                "apenas_importado_api": "N"
+            }]
+        })
+    }).then(response => response.json())
+
+        .catch(err => console.error(err))
+
+    const regexLimpeza = /[^\d]/g;
+
+    for (const cliente of list.clientes_cadastro) {
+        if (cliente.cnpj_cpf.replace(regexLimpeza, "") === cnpj_cpf.replace(regexLimpeza, ""))
+            return cliente
+    }
+
+    if (pagina < list.total_de_paginas)
+        return await PegaClienteDaLista(pagina += 1, cnpj_cpf)
+
+    return {}
 }
