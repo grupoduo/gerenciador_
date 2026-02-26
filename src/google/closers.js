@@ -53,13 +53,10 @@ export default async (app, req, res) => {
         //TODO: aqui tem que pegar o email do convidado e entao pegar o contato no Kommo e entao pegar o lead que esta no pipepline
         let lead = await pegaLeadDoConvidado(app, event)
         if (!lead) {
-            if (!event.description || !event.description.includes("Id do Lead")) continue;
-            const data = getDataFromEvent(event);
-            if (!data || !data.lead_id) {
-                continue;
+            const data = event.description ? getDataFromEvent(event) : null;
+            if (data && data.lead_id) {
+                lead = await app.kommo.LeadFind(data.lead_id)
             }
-
-            lead = await app.kommo.LeadFind(data.lead_id)
         }
 
         if (!lead) {
