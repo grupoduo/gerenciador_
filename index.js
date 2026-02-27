@@ -48,7 +48,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // Enable CORS for all origins
-app.use(cors({ origin: origins }));
+app.use(cors({ origin: "*" }));
 
 // Parse JSON bodies for POST requests
 app.use(json());
