@@ -798,7 +798,7 @@ import createLead from './src/kommo/util/createLead.js';
 import transcript from './src/transcript/index.js';
 
 // --- Configurações ---
-const SERVICE_ACCOUNT_KEY_PATH = './storage/credentials.json'; // Substitua pelo caminho do seu arquivo JSON
+import getGoogleCredentials from './src/google/util/getGoogleCredentials.js';
 const CALENDAR_ID = 'da6c97cfbb3e2da2c1205f53a59d6a9533334165d948038e96e8c2d832f984de@group.calendar.google.com'; // Substitua por 'primary' ou o ID do calendário específico (ex: seuemail@gmail.com ou um ID longo)
 
 // Escopos necessários para ler eventos
@@ -807,8 +807,10 @@ const SCOPES = ['https://www.googleapis.com/auth/calendar.events.readonly'];
 async function listEventsForMay2025() {
 	try {
 		// 1. Autenticar com a Conta de Serviço
+		const credentials = await getGoogleCredentials(repository)
 		const auth = new JWT({
-			keyFile: SERVICE_ACCOUNT_KEY_PATH,
+			email: credentials.client_email,
+			key: credentials.private_key,
 			scopes: SCOPES,
 		});
 		await auth.authorize(); // Garante que a autenticação está pronta

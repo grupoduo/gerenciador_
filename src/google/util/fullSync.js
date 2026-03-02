@@ -1,7 +1,7 @@
 import getAuthenticatedCalendarClient from "./getAuthenticatedCalendarClient.js";
 
-export default async (calendarId) =>  {
-    const calendarClient = await getAuthenticatedCalendarClient();
+export default async (repository, calendarId) =>  {
+    const calendarClient = await getAuthenticatedCalendarClient(repository);
 
     const params = {
         calendarId: calendarId,

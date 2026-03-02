@@ -34,14 +34,14 @@ export default async (app, req, res) => {
 
     // Quando for uma notificacao de sync so salva o proximo token
     if (resourceState === 'sync') {
-        const nextSyncToken = await fullSync(calendarIdParaSync); // Full sync
+        const nextSyncToken = await fullSync(app.repository, calendarIdParaSync); // Full sync
         app.repository.update("Agendas", calendar._id, { nextSyncToken })
         return;
     }
 
     if (resourceState !== 'exists' && resourceState !== 'not_exists') return;
 
-    const calendarClient = await getAuthenticatedCalendarClient();
+    const calendarClient = await getAuthenticatedCalendarClient(app.repository);
     const response = await calendarClient.events.list({
         calendarId: calendar.calendarId,
         syncToken: calendar.nextSyncToken

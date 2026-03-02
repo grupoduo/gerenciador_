@@ -1,8 +1,10 @@
+import 'dotenv/config';
 import { google } from 'googleapis';
 import { JWT } from 'google-auth-library';
+import RepositoryMongoDB, { Mongodb } from './src/repository/mongodb.js';
+import getGoogleCredentials from './src/google/util/getGoogleCredentials.js';
 
 // --- Configurações ---
-const SERVICE_ACCOUNT_KEY_PATH = './storage/credentials.json'; // Mude para o caminho do seu arquivo JSON
 const CALENDAR_ID_TO_WATCH = 'consultoriaduoacademy@gmail.com'; // Ou o ID específico do calendário (ex: seuemail@gmail.com, ou um ID de calendário longo)
 const WEBHOOK_RECEIVER_URL = 'https://gerenciadorduo.zeyo.org/webhook/google/calendar/closers'; // URL do seu servidor webhook (deve ser HTTPS)
 const CHANNEL_ID = crypto.randomUUID(); // Gera um ID único para o canal de notificação
@@ -12,14 +14,16 @@ const TOKEN_PARA_VERIFICACAO = 'closers_duo_academy_googleagenda'; // Opcional, 
 const SCOPES = ['https://www.googleapis.com/auth/calendar.events.readonly']; // Ou .calendar para acesso mais amplo
                                                                           // ou .calendar.events para ler/escrever eventos
 
+const repository = new RepositoryMongoDB(new Mongodb(process.env.DB_URL));
+
 async function createWatchChannel() {
     try {
         // 1. Autenticar com a Conta de Serviço
+        const credentials = await getGoogleCredentials(repository)
         const auth = new JWT({
-            keyFile: SERVICE_ACCOUNT_KEY_PATH,
+            email: credentials.client_email,
+            key: credentials.private_key,
             scopes: SCOPES,
-            // Se a conta de serviço precisar personificar um usuário (Domain-Wide Delegation):
-            // subject: 'usuario@seudominio.com'
         });
 
         await auth.authorize(); // Garante que a autenticação está pronta
