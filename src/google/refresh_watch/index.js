@@ -13,7 +13,7 @@ export default async (app) => {
         console.log("Fazendo refresh do Google Agenda!!!")
         const config = {
             // --- Configurações ---
-            SERVICE_ACCOUNT_KEY_PATH: './credentials.json', // Mude para o caminho do seu arquivo JSON
+            SERVICE_ACCOUNT_KEY_PATH: './storage/credentials.json', // Mude para o caminho do seu arquivo JSON
             CALENDAR_ID_TO_WATCH: agenda.calendarId, // Ou o ID específico do calendário (ex: seuemail@gmail.com, ou um ID de calendário longo)
             WEBHOOK_RECEIVER_URL: 'https://gerenciadorduo.zeyo.org/webhook/google/calendar/closers', // URL do seu servidor webhook (deve ser HTTPS)
             CHANNEL_ID: crypto.randomUUID(), // Gera um ID único para o canal de notificação

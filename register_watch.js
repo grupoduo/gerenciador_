@@ -2,7 +2,7 @@ import { google } from 'googleapis';
 import { JWT } from 'google-auth-library';
 
 // --- Configurações ---
-const SERVICE_ACCOUNT_KEY_PATH = './credentials.json'; // Mude para o caminho do seu arquivo JSON
+const SERVICE_ACCOUNT_KEY_PATH = './storage/credentials.json'; // Mude para o caminho do seu arquivo JSON
 const CALENDAR_ID_TO_WATCH = 'consultoriaduoacademy@gmail.com'; // Ou o ID específico do calendário (ex: seuemail@gmail.com, ou um ID de calendário longo)
 const WEBHOOK_RECEIVER_URL = 'https://gerenciadorduo.zeyo.org/webhook/google/calendar/closers'; // URL do seu servidor webhook (deve ser HTTPS)
 const CHANNEL_ID = crypto.randomUUID(); // Gera um ID único para o canal de notificação
