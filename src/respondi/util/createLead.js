@@ -8,8 +8,9 @@ import utmsMap from "./utmsMap.js";
  * @param {String} contact_id
  * @param {String} name
  * @param {object} utms
+ * @param {Array} leadFields - campos custom extras para o lead (opcional)
  */
-export default async (app, pipeline_id, status_id, contact_id, name, utms) => {
+export default async (app, pipeline_id, status_id, contact_id, name, utms, leadFields = []) => {
     try {
         const custom_fields_values = []
 
@@ -25,6 +26,11 @@ export default async (app, pipeline_id, status_id, contact_id, name, utms) => {
                     ]
                 })
             }
+        }
+
+        // Merge campos extras do lead (ex: regime tributário, soluções)
+        if (leadFields.length) {
+            custom_fields_values.push(...leadFields)
         }
 
         const kommolead = {
