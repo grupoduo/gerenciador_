@@ -14,6 +14,8 @@ export default async (app, req, res) => {
 
     try {
         // Mapeamento: question_id do Respondi → field_id do CONTATO no Kommo
+        // OBS: regime tributário (1881895) e soluções (1881897) foram deletados do contato
+        //       e recriados como campos do LEAD (ver leadFieldsMap abaixo)
         const answerFieldsMap = {
             "x0fnghh8lgr0i": 1880351,
             "xmnn2h93crsp": 1878287,
@@ -24,8 +26,6 @@ export default async (app, req, res) => {
             "xe1z1b1h5j06": 1878291,
             "xklblw7ubrfh": 1881259,
             "xnc3ikl9dgkd": 1878297,
-            "xoy60zucvfl": 1881895,
-            "x99pegcslqhv": 1881897
         }
 
         // Mapeamento: question_id do Respondi → field_id do LEAD no Kommo
