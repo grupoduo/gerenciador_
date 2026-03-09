@@ -2,10 +2,18 @@ import createContato from "../util/createContato.js"
 import createLead from "../util/createLead.js"
 import getName from "../util/getName.js"
 
+// Campos do LEAD que são tipo select — mapa texto → enum_id
+const LEAD_REGIME_TRIBUTARIO_ENUM = {
+    "MEI": 1304600,
+    "Simples Nacional": 1304602,
+    "Outro": 1304604,
+}
+
 export default async (app, req, res) => {
     res.json({ msg: "ok" })
 
     try {
+        // Mapeamento: question_id do Respondi → field_id do CONTATO no Kommo
         const answerFieldsMap = {
             "x0fnghh8lgr0i": 1880351,
             "xmnn2h93crsp": 1878287,
@@ -19,6 +27,13 @@ export default async (app, req, res) => {
             "xoy60zucvfl": 1881895,
             "x99pegcslqhv": 1881897
         }
+
+        // Mapeamento: question_id do Respondi → field_id do LEAD no Kommo
+        const leadFieldsMap = {
+            "xoy60zucvfl": { field_id: 1884340, type: "select", enums: LEAD_REGIME_TRIBUTARIO_ENUM },
+            "x99pegcslqhv": { field_id: 1884344, type: "text" },
+        }
+
         const { respondent } = req.body
         const contact = await createContato(app, respondent.raw_answers, answerFieldsMap)
         if (!contact) {
@@ -27,9 +42,30 @@ export default async (app, req, res) => {
             return
         }
 
+        // Extrair campos extras para o LEAD a partir das respostas
+        const leadFields = []
+        for (const answer of respondent.raw_answers) {
+            const mapping = leadFieldsMap[answer.question.question_id]
+            if (!mapping) continue
+
+            const value = Array.isArray(answer.answer) ? answer.answer.join(', ') : answer.answer
+
+            if (mapping.type === "select" && mapping.enums) {
+                const enum_id = mapping.enums[value]
+                if (enum_id) {
+                    leadFields.push({ field_id: mapping.field_id, values: [{ enum_id }] })
+                } else {
+                    console.warn(`[belezacontabil] Enum não encontrado para "${value}" no campo ${mapping.field_id}`)
+                    leadFields.push({ field_id: mapping.field_id, values: [{ value }] })
+                }
+            } else {
+                leadFields.push({ field_id: mapping.field_id, values: [{ value }] })
+            }
+        }
+
         const nameObj = getName(respondent.raw_answers)
         const name = nameObj ? nameObj.answer : "Sem nome"
-        const lead = await createLead(app, 9762760, 91813972, contact.id, name, respondent.respondent_utms)
+        const lead = await createLead(app, 9762760, 91813972, contact.id, name, respondent.respondent_utms, leadFields)
 
         if (!lead) {
             console.error("FALHA BELEZACONTABIL - lead não criado")
